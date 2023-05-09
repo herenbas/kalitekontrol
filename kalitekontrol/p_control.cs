@@ -487,8 +487,6 @@ namespace kalitekontrol
                     BiometricImage fp1 = biometricImage[0];
                     BiometricImage fp2 = biometricImage[1];
 
-                    //PArmak izleri burada
-
 
 
 
