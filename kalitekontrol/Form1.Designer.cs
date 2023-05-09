@@ -69,16 +69,18 @@
             this.button8 = new System.Windows.Forms.Button();
             this.label24 = new System.Windows.Forms.Label();
             this.button9 = new System.Windows.Forms.Button();
+            this.label25 = new System.Windows.Forms.Label();
+            this.label26 = new System.Windows.Forms.Label();
+            this.label27 = new System.Windows.Forms.Label();
+            this.richTextBox3 = new System.Windows.Forms.RichTextBox();
+            this.button10 = new System.Windows.Forms.Button();
+            this.button11 = new System.Windows.Forms.Button();
             this.scansettingsLight = new DeskoScanSample.ScanLightSettings();
             this.scansettingsUv = new DeskoScanSample.ScanLightSettings();
             this.controlUv = new kalitekontrol.ScanLightControl();
             this.controlIr = new kalitekontrol.ScanLightControl();
             this.scanLightControl1 = new kalitekontrol.ScanLightControl();
             this.scanLightSettings1 = new DeskoScanSample.ScanLightSettings();
-            this.label25 = new System.Windows.Forms.Label();
-            this.label26 = new System.Windows.Forms.Label();
-            this.label27 = new System.Windows.Forms.Label();
-            this.richTextBox3 = new System.Windows.Forms.RichTextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
@@ -196,19 +198,19 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Location = new System.Drawing.Point(652, 15);
+            this.pictureBox2.Location = new System.Drawing.Point(698, 221);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(75, 41);
+            this.pictureBox2.Size = new System.Drawing.Size(143, 115);
             this.pictureBox2.TabIndex = 7;
             this.pictureBox2.TabStop = false;
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(9, 144);
+            this.button3.Location = new System.Drawing.Point(307, 453);
             this.button3.Margin = new System.Windows.Forms.Padding(2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(190, 73);
+            this.button3.Size = new System.Drawing.Size(168, 19);
             this.button3.TabIndex = 14;
             this.button3.Text = "EAC";
             this.button3.UseVisualStyleBackColor = true;
@@ -471,21 +473,76 @@
             this.button9.UseVisualStyleBackColor = true;
             this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
+            // label25
+            // 
+            this.label25.AutoSize = true;
+            this.label25.Location = new System.Drawing.Point(12, 442);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(41, 13);
+            this.label25.TabIndex = 27;
+            this.label25.Text = "label25";
+            // 
+            // label26
+            // 
+            this.label26.AutoSize = true;
+            this.label26.Location = new System.Drawing.Point(15, 459);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(41, 13);
+            this.label26.TabIndex = 28;
+            this.label26.Text = "label26";
+            // 
+            // label27
+            // 
+            this.label27.AutoSize = true;
+            this.label27.Location = new System.Drawing.Point(13, 476);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(41, 13);
+            this.label27.TabIndex = 29;
+            this.label27.Text = "label27";
+            // 
+            // richTextBox3
+            // 
+            this.richTextBox3.Location = new System.Drawing.Point(10, 504);
+            this.richTextBox3.Name = "richTextBox3";
+            this.richTextBox3.Size = new System.Drawing.Size(210, 155);
+            this.richTextBox3.TabIndex = 30;
+            this.richTextBox3.Text = "";
+            // 
+            // button10
+            // 
+            this.button10.Location = new System.Drawing.Point(944, 523);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(75, 23);
+            this.button10.TabIndex = 31;
+            this.button10.Text = "button10";
+            this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.Button10_Click);
+            // 
+            // button11
+            // 
+            this.button11.Location = new System.Drawing.Point(9, 133);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(192, 74);
+            this.button11.TabIndex = 32;
+            this.button11.Text = "EAC NEW";
+            this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
+            // 
             // scansettingsLight
             // 
             this.scansettingsLight.Light = Desko.Scan.Light.Visible;
             this.scansettingsLight.Location = new System.Drawing.Point(663, 46);
             this.scansettingsLight.Name = "scansettingsLight";
-            this.scansettingsLight.Size = new System.Drawing.Size(32, 11);
+            this.scansettingsLight.Size = new System.Drawing.Size(175, 187);
             this.scansettingsLight.TabIndex = 13;
             this.scansettingsLight.Visible = false;
             // 
             // scansettingsUv
             // 
             this.scansettingsUv.Light = Desko.Scan.Light.Ultraviolet;
-            this.scansettingsUv.Location = new System.Drawing.Point(652, 23);
+            this.scansettingsUv.Location = new System.Drawing.Point(407, 119);
             this.scansettingsUv.Name = "scansettingsUv";
-            this.scansettingsUv.Size = new System.Drawing.Size(53, 33);
+            this.scansettingsUv.Size = new System.Drawing.Size(217, 370);
             this.scansettingsUv.TabIndex = 12;
             this.scansettingsUv.Visible = false;
             // 
@@ -527,52 +584,19 @@
             // scanLightSettings1
             // 
             this.scanLightSettings1.Light = Desko.Scan.Light.Infrared;
-            this.scanLightSettings1.Location = new System.Drawing.Point(652, 11);
+            this.scanLightSettings1.Location = new System.Drawing.Point(721, 59);
             this.scanLightSettings1.Name = "scanLightSettings1";
             this.scanLightSettings1.Size = new System.Drawing.Size(95, 23);
             this.scanLightSettings1.TabIndex = 8;
             this.scanLightSettings1.Visible = false;
-            // 
-            // label25
-            // 
-            this.label25.AutoSize = true;
-            this.label25.Location = new System.Drawing.Point(12, 442);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(41, 13);
-            this.label25.TabIndex = 27;
-            this.label25.Text = "label25";
-            // 
-            // label26
-            // 
-            this.label26.AutoSize = true;
-            this.label26.Location = new System.Drawing.Point(15, 459);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(41, 13);
-            this.label26.TabIndex = 28;
-            this.label26.Text = "label26";
-            // 
-            // label27
-            // 
-            this.label27.AutoSize = true;
-            this.label27.Location = new System.Drawing.Point(13, 476);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(41, 13);
-            this.label27.TabIndex = 29;
-            this.label27.Text = "label27";
-            // 
-            // richTextBox3
-            // 
-            this.richTextBox3.Location = new System.Drawing.Point(10, 504);
-            this.richTextBox3.Name = "richTextBox3";
-            this.richTextBox3.Size = new System.Drawing.Size(210, 155);
-            this.richTextBox3.TabIndex = 30;
-            this.richTextBox3.Text = "";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1175, 671);
+            this.Controls.Add(this.button11);
+            this.Controls.Add(this.button10);
             this.Controls.Add(this.richTextBox3);
             this.Controls.Add(this.label27);
             this.Controls.Add(this.label26);
@@ -683,6 +707,8 @@
         private System.Windows.Forms.Label label26;
         private System.Windows.Forms.Label label27;
         private System.Windows.Forms.RichTextBox richTextBox3;
+        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.Button button11;
     }
 }
 

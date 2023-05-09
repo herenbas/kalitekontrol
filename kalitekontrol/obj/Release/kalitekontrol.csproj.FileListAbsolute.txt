@@ -38,3 +38,42 @@ C:\Users\hayreddin.bas\source\repos\kalitekontrol\kalitekontrol\bin\Release\Syst
 C:\Users\hayreddin.bas\source\repos\kalitekontrol\kalitekontrol\bin\Release\CaesarCipher.xml
 C:\Users\hayreddin.bas\source\repos\kalitekontrol\kalitekontrol\bin\Release\System.Diagnostics.DiagnosticSource.xml
 C:\Users\hayreddin.bas\source\repos\kalitekontrol\kalitekontrol\obj\Release\kalitekontrol.csproj.kalitekontrol.exe.config
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\kalitekontrol.exe.config
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Release\kalitekontrol.exe
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Release\kalitekontrol.pdb
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\kalitekontrol.exe
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\kalitekontrol.pdb
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\CaesarCipher.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\deskomrznet.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\deskoscannet.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\ePassApi2net.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.AppContext.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.Console.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.IO.Compression.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.IO.FileSystem.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.Net.Http.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.Net.Sockets.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.Reflection.TypeExtensions.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.ValueTuple.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\CaesarCipher.xml
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Release\kalitekontrol.csprojResolveAssemblyReference.cache
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Release\kalitekontrol.csproj.kalitekontrol.exe.config
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Release\kalitekontrol.Form1.resources
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Release\kalitekontrol.Properties.Resources.resources
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Release\kalitekontrol.ScanLightControl.resources
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Release\DeskoScanSample.ScanLightSettings.resources
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Release\DeskoScanSample.Zoom.resources
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Release\kalitekontrol.csproj.GenerateResource.Cache

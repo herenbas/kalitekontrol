@@ -39,3 +39,274 @@ C:\Users\hayreddin.bas\source\repos\kalitekontrol\kalitekontrol\bin\Debug\EPassA
 C:\Users\hayreddin.bas\source\repos\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csprojAssemblyReference.cache
 C:\Users\hayreddin.bas\source\repos\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CopyComplete
 C:\Users\hayreddin.bas\source\repos\kalitekontrol\kalitekontrol\bin\Debug\ePassApi2net.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe.config
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.pdb
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.AppContext.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.Console.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Http.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Sockets.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.ValueTuple.dll
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.xml
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe.config
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Form1.resources
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Properties.Resources.resources
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.ScanLightControl.resources
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.ScanLightSettings.resources
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.Zoom.resources
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.GenerateResource.cache
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CoreCompileInputs.cache
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CopyComplete
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.pdb
+C:\Users\Eren BAŞ\Documents\GitHub\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csprojAssemblyReference.cache
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe.config
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.pdb
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.AppContext.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Console.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Http.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Sockets.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.ValueTuple.dll
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.xml
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.AssemblyReference.cache
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe.config
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Form1.resources
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Properties.Resources.resources
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.ScanLightControl.resources
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.ScanLightSettings.resources
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.Zoom.resources
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.GenerateResource.cache
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CoreCompileInputs.cache
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CopyComplete
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe
+C:\Users\Eren BAŞ\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.pdb
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe.config
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.pdb
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.AppContext.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Console.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Http.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Sockets.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.ValueTuple.dll
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.xml
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csprojAssemblyReference.cache
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe.config
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Form1.resources
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Properties.Resources.resources
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.ScanLightControl.resources
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.ScanLightSettings.resources
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.Zoom.resources
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.GenerateResource.cache
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CoreCompileInputs.cache
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CopyComplete
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe
+C:\Users\Eren BAŞ\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.pdb
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe.config
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.pdb
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.AppContext.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.Console.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.Globalization.Calendars.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Http.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Sockets.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.ValueTuple.dll
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.xml
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.xml
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.AssemblyReference.cache
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe.config
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Form1.resources
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Properties.Resources.resources
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.ScanLightControl.resources
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.ScanLightSettings.resources
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.Zoom.resources
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.GenerateResource.cache
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CoreCompileInputs.cache
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CopyComplete
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe
+D:\ESKİ DELL BELGELR\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.pdb
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe.config
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.pdb
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.AppContext.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Console.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Http.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Sockets.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.ValueTuple.dll
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.xml
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe.config
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Form1.resources
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Properties.Resources.resources
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.p_control.resources
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.ScanLightControl.resources
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.ScanLightSettings.resources
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.Zoom.resources
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.GenerateResource.cache
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CoreCompileInputs.cache
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CopyComplete
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.pdb
+C:\Users\hayreddin.bas\Documents\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.AssemblyReference.cache
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe.config
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.pdb
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.AppContext.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Console.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Http.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Sockets.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.ValueTuple.dll
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.xml
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.AssemblyReference.cache
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe.config
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Form1.resources
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Properties.Resources.resources
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.p_control.resources
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.ScanLightControl.resources
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.ScanLightSettings.resources
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.Zoom.resources
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.GenerateResource.cache
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CoreCompileInputs.cache
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CopyComplete
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe
+C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.pdb
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe.config
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.exe
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\kalitekontrol.pdb
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.AppContext.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.Console.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Http.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.Net.Sockets.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.ValueTuple.dll
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\CaesarCipher.xml
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.AssemblyReference.cache
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe.config
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Form1.resources
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.Properties.Resources.resources
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.p_control.resources
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.ScanLightControl.resources
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.ScanLightSettings.resources
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\DeskoScanSample.Zoom.resources
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.GenerateResource.cache
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CoreCompileInputs.cache
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.csproj.CopyComplete
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.exe
+C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\obj\Debug\kalitekontrol.pdb

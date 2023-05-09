@@ -1,0 +1,30 @@
+
+Log Entry : 3:18:45 PM Wednesday, March 1, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 3:18:45 PM Wednesday, March 1, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 3:18:45 PM Wednesday, March 1, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 3:18:45 PM Wednesday, March 1, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 3:18:45 PM Wednesday, March 1, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 3:18:45 PM Wednesday, March 1, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------

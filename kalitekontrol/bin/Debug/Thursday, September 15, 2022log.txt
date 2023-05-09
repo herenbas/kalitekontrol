@@ -1,0 +1,5520 @@
+
+Log Entry : 3:40:54 PM Thursday, September 15, 2022
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 3:40:54 PM Thursday, September 15, 2022
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 3:40:54 PM Thursday, September 15, 2022
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 3:40:54 PM Thursday, September 15, 2022
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 3:40:54 PM Thursday, September 15, 2022
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 3:40:54 PM Thursday, September 15, 2022
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 42
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 42
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 2 PACE info(s) found
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 2 PACE info(s) found
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): version 2
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): version 2
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): domain params:
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): domain params:
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 3:41:10 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 3:41:11 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 10874
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 10874
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 162
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 162
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 63
+-------------------------------
+
+Log Entry : 3:41:12 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 63
+-------------------------------
+
+Log Entry : 3:41:13 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 3:41:13 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6988
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6988
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 42
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 42
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 2 PACE info(s) found
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 2 PACE info(s) found
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): version 2
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): version 2
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): domain params:
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): domain params:
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :using PACE info 1 (of 2), version 2, OID id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :using PACE info 1 (of 2), version 2, OID id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Protocol: PACE - Start
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Protocol: PACE - Start
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Info: Version - 2
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Info: Version - 2
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Info: SharedPasswordType - MRZ (0x01)
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Info: SharedPasswordType - MRZ (0x01)
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Generating DH key pair (for generic mapping)
+-------------------------------
+
+Log Entry : 3:41:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Generating DH key pair (for generic mapping)
+-------------------------------
+
+Log Entry : 3:41:18 PM Thursday, September 15, 2022
+  :
+  :Info: DH-KA Algorithm - ECDH
+-------------------------------
+
+Log Entry : 3:41:18 PM Thursday, September 15, 2022
+  :
+  :Info: DH-KA Algorithm - ECDH
+-------------------------------
+
+Log Entry : 3:41:18 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Generating DH key pair
+-------------------------------
+
+Log Entry : 3:41:18 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Generating DH key pair
+-------------------------------
+
+Log Entry : 3:41:19 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Preparing exchange of PCD authentication tokens
+-------------------------------
+
+Log Entry : 3:41:19 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Preparing exchange of PCD authentication tokens
+-------------------------------
+
+Log Entry : 3:41:19 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Preparing exchange of ICC authentication tokens
+-------------------------------
+
+Log Entry : 3:41:19 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Preparing exchange of ICC authentication tokens
+-------------------------------
+
+Log Entry : 3:41:19 PM Thursday, September 15, 2022
+  :
+  :Protocol: PACE - End
+-------------------------------
+
+Log Entry : 3:41:19 PM Thursday, September 15, 2022
+  :
+  :Protocol: PACE - End
+-------------------------------
+
+Log Entry : 3:41:19 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 3:41:19 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 3:41:19 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 3:41:19 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :dg 14: 1 CA info(s) found
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :dg 14: 1 CA info(s) found
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :(CA info 1): version 1
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :(CA info 1): version 1
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :(CA info 1): public key info:
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :(CA info 1): public key info:
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :30 82 02 38 30 82 01 af 06 07 2a 86 48 ce 3d 02	0..80.....*.H.=.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :30 82 02 38 30 82 01 af 06 07 2a 86 48 ce 3d 02	0..80.....*.H.=.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :01 30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce	.0......0L..*.H.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :01 30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce	.0......0L..*.H.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :3d 01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4	=...A.........?.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :3d 01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4	=...A.........?.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :e6 ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63	..3....0.......c
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :e6 ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63	..3....0.......c
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :9c ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd	..p3.q}M....hB..
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :9c ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd	..p3.q}M....hB..
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :a1 2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa	.*....(../-...(.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :a1 2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa	.*....(../-...(.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :60 56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b	`VX:H.0...@x0.1.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :60 56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b	`VX:H.0...@x0.1.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :60 3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d	`;..2qE.#L.....=
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :60 3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d	`;..2qE.#L.....=
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :f9 16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8	....4A...c.-.]Z.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :f9 16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8	....4A...c.-.]Z.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :25 3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b	%:.............+
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :25 3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b	%:.............+
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :f2 c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16	......Mw....@=..
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :f2 c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16	......Mw....@=..
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a	..4A...c.-.]Z.%:
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a	..4A...c.-.]Z.%:
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7	.............+..
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7	.............+..
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :b9 e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50	....Mw.....>g.@P
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :b9 e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50	....Mw.....>g.@P
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :b7 5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81	.^...(..c...#...
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :b7 5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81	.^...(..c...#...
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :04 81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a	........dZ!2..Lj
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :04 81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a	........dZ!2..Lj
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :93 85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09	....p.....;b....
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :93 85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09	....p.....;b....
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :8e ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d	..;.x....P.h{..}
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :8e ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d	..;.x....P.h{..}
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :5f 7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8	_|mPG@j^h.5"....
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :5f 7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8	_|mPG@j^h.5"....
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :22 7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22	"}.8]Vc2......x"
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :22 7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22	"}.8]Vc2......x"
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :fd f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81	.....$.{....[...
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :fd f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81	.....$.{....[...
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :11 b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63	....IJ_H^[.K..'c
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :11 b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63	....IJ_H^[.K..'c
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :ae d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08	...+/..T.x...:..
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :ae d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08	...+/..T.x...:..
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :92 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae	..A.........?...
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :92 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae	..A.........?...
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca	3....0.......c..
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca	3....0.......c..
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :70 33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19	p3.pU>\AL.&.A.a.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :70 33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19	p3.pU>\AL.&.A.a.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :7f ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82	...G.....]......
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :7f ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82	...G.....]......
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :9c a9 00 69 02 01 01 03 81 82 00 04 08 5a ef c2	...i.........Z..
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :9c a9 00 69 02 01 01 03 81 82 00 04 08 5a ef c2	...i.........Z..
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :2d 95 80 89 11 d5 e0 fc eb 78 aa 27 b5 c4 0d 5b	-........x.'...[
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :2d 95 80 89 11 d5 e0 fc eb 78 aa 27 b5 c4 0d 5b	-........x.'...[
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :56 ff 02 88 38 e3 5a 63 0f 57 39 ae 7a 8f d3 ce	V...8.Zc.W9.z...
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :56 ff 02 88 38 e3 5a 63 0f 57 39 ae 7a 8f d3 ce	V...8.Zc.W9.z...
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :b2 6a 66 04 31 e8 ea 6e 44 f9 07 86 d3 d9 fb 40	.jf.1..nD......@
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :b2 6a 66 04 31 e8 ea 6e 44 f9 07 86 d3 d9 fb 40	.jf.1..nD......@
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :e5 49 7c 0d 2b 06 da a9 85 2f f6 d2 67 6d 72 f4	.I|.+..../..gmr.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :e5 49 7c 0d 2b 06 da a9 85 2f f6 d2 67 6d 72 f4	.I|.+..../..gmr.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :94 41 6f b8 04 f7 d6 ec 20 bb 8c ad dd fa 57 12	.Ao..... .....W.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :94 41 6f b8 04 f7 d6 ec 20 bb 8c ad dd fa 57 12	.Ao..... .....W.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :31 c9 59 68 cb 1f 97 18 30 2b c6 b0 12 21 aa 61	1.Yh....0+...!.a
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :31 c9 59 68 cb 1f 97 18 30 2b c6 b0 12 21 aa 61	1.Yh....0+...!.a
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :cc 1e 92 03 9d 22 fc 5c 1a 94 b1 ad 60 95 52 6f	.....".\....`.Ro
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :cc 1e 92 03 9d 22 fc 5c 1a 94 b1 ad 60 95 52 6f	.....".\....`.Ro
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :4b ef 7d 81 c4 4d 8b 61 ad 3a 70 93            	K.}..M.a.:p.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :4b ef 7d 81 c4 4d 8b 61 ad 3a 70 93            	K.}..M.a.:p.
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :(CA info 1): protocol OID: id-CA-ECDH-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :(CA info 1): protocol OID: id-CA-ECDH-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :dg 14: 1 TA info(s) found
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :dg 14: 1 TA info(s) found
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :(TA info 1): version 1
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :(TA info 1): version 1
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Protocol: ChipAuthentication - Start
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Protocol: ChipAuthentication - Start
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Info: KeyId - No ID
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Info: KeyId - No ID
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::getRawPubKey - Cutting byte for unused bits (bitsting encoding)
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::getRawPubKey - Cutting byte for unused bits (bitsting encoding)
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performChipAuthentication - Initializing DH-Agreement (algorithm: ECDH)
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performChipAuthentication - Initializing DH-Agreement (algorithm: ECDH)
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performChipAuthentication - Generating DH key pair
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performChipAuthentication - Generating DH key pair
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Protocol: ChipAuthentication - End
+-------------------------------
+
+Log Entry : 3:41:20 PM Thursday, September 15, 2022
+  :
+  :Protocol: ChipAuthentication - End
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CVCA - Start
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CVCA - Start
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CVCA - End
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CVCA - End
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :performing TA with dynamic binding
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :performing TA with dynamic binding
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Protocol: TerminalAuthentication - Start
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Protocol: TerminalAuthentication - Start
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Info: TerminalType - inspection system
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Info: TerminalType - inspection system
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performTerminalAuthentication - Performing MSE:SetAT
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performTerminalAuthentication - Performing MSE:SetAT
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Info: Binding - dynamic
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Info: Binding - dynamic
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Info: Algorithm - id-TA-ECDSA-SHA-512
+-------------------------------
+
+Log Entry : 3:41:22 PM Thursday, September 15, 2022
+  :
+  :Info: Algorithm - id-TA-ECDSA-SHA-512
+-------------------------------
+
+Log Entry : 3:41:23 PM Thursday, September 15, 2022
+  :
+  :Protocol: TerminalAuthentication - End
+-------------------------------
+
+Log Entry : 3:41:23 PM Thursday, September 15, 2022
+  :
+  :Protocol: TerminalAuthentication - End
+-------------------------------
+
+Log Entry : 3:41:23 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG3 - Start
+-------------------------------
+
+Log Entry : 3:41:23 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG3 - Start
+-------------------------------
+
+Log Entry : 3:41:23 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 18439
+-------------------------------
+
+Log Entry : 3:41:23 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 18439
+-------------------------------
+
+Log Entry : 3:41:24 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG3 - End
+-------------------------------
+
+Log Entry : 3:41:24 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG3 - End
+-------------------------------
+
+Log Entry : 3:41:24 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.SOD - Start
+-------------------------------
+
+Log Entry : 3:41:24 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.SOD - Start
+-------------------------------
+
+Log Entry : 3:41:24 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 2497
+-------------------------------
+
+Log Entry : 3:41:24 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 2497
+-------------------------------
+
+Log Entry : 3:41:24 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.SOD - End
+-------------------------------
+
+Log Entry : 3:41:24 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.SOD - End
+-------------------------------
+
+Log Entry : 4:25:03 PM Thursday, September 15, 2022
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:25:03 PM Thursday, September 15, 2022
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:25:03 PM Thursday, September 15, 2022
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:25:03 PM Thursday, September 15, 2022
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:25:03 PM Thursday, September 15, 2022
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:25:03 PM Thursday, September 15, 2022
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 42
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 42
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 2 PACE info(s) found
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 2 PACE info(s) found
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): version 2
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): version 2
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): domain params:
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): domain params:
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:25:08 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:25:09 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:25:09 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:25:09 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 5228
+-------------------------------
+
+Log Entry : 4:25:09 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 5228
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 85
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 85
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 71
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 71
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:25:10 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6988
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6988
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:25:15 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:25:16 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:25:16 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:25:16 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 5228
+-------------------------------
+
+Log Entry : 4:25:16 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 5228
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 85
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 85
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 71
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 71
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:25:17 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:25:21 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:25:21 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:25:21 PM Thursday, September 15, 2022
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6988
+-------------------------------
+
+Log Entry : 4:25:21 PM Thursday, September 15, 2022
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6988
+-------------------------------
+
+Log Entry : 4:25:21 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:25:21 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:25:21 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:25:21 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:25:21 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:25:21 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 42
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 42
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 2 PACE info(s) found
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 2 PACE info(s) found
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): version 2
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): version 2
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): domain params:
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): domain params:
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :(PACE info 2): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :using PACE info 1 (of 2), version 2, OID id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :using PACE info 1 (of 2), version 2, OID id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Protocol: PACE - Start
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Protocol: PACE - Start
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Info: Version - 2
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Info: Version - 2
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Info: SharedPasswordType - MRZ (0x01)
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Info: SharedPasswordType - MRZ (0x01)
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Generating DH key pair (for generic mapping)
+-------------------------------
+
+Log Entry : 4:25:22 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Generating DH key pair (for generic mapping)
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :Info: DH-KA Algorithm - ECDH
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :Info: DH-KA Algorithm - ECDH
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Generating DH key pair
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Generating DH key pair
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Preparing exchange of PCD authentication tokens
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Preparing exchange of PCD authentication tokens
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Preparing exchange of ICC authentication tokens
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performPACE - Preparing exchange of ICC authentication tokens
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :Protocol: PACE - End
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :Protocol: PACE - End
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:23 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :dg 14: 1 CA info(s) found
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :dg 14: 1 CA info(s) found
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :(CA info 1): version 1
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :(CA info 1): version 1
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :(CA info 1): public key info:
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :(CA info 1): public key info:
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :30 82 02 38 30 82 01 af 06 07 2a 86 48 ce 3d 02	0..80.....*.H.=.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :30 82 02 38 30 82 01 af 06 07 2a 86 48 ce 3d 02	0..80.....*.H.=.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :01 30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce	.0......0L..*.H.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :01 30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce	.0......0L..*.H.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :3d 01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4	=...A.........?.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :3d 01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4	=...A.........?.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :e6 ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63	..3....0.......c
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :e6 ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63	..3....0.......c
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :9c ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd	..p3.q}M....hB..
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :9c ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd	..p3.q}M....hB..
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :a1 2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa	.*....(../-...(.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :a1 2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa	.*....(../-...(.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :60 56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b	`VX:H.0...@x0.1.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :60 56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b	`VX:H.0...@x0.1.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :60 3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d	`;..2qE.#L.....=
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :60 3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d	`;..2qE.#L.....=
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :f9 16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8	....4A...c.-.]Z.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :f9 16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8	....4A...c.-.]Z.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :25 3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b	%:.............+
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :25 3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b	%:.............+
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :f2 c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16	......Mw....@=..
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :f2 c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16	......Mw....@=..
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a	..4A...c.-.]Z.%:
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a	..4A...c.-.]Z.%:
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7	.............+..
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7	.............+..
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :b9 e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50	....Mw.....>g.@P
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :b9 e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50	....Mw.....>g.@P
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :b7 5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81	.^...(..c...#...
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :b7 5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81	.^...(..c...#...
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :04 81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a	........dZ!2..Lj
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :04 81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a	........dZ!2..Lj
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :93 85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09	....p.....;b....
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :93 85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09	....p.....;b....
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :8e ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d	..;.x....P.h{..}
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :8e ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d	..;.x....P.h{..}
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :5f 7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8	_|mPG@j^h.5"....
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :5f 7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8	_|mPG@j^h.5"....
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :22 7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22	"}.8]Vc2......x"
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :22 7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22	"}.8]Vc2......x"
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :fd f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81	.....$.{....[...
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :fd f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81	.....$.{....[...
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :11 b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63	....IJ_H^[.K..'c
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :11 b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63	....IJ_H^[.K..'c
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :ae d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08	...+/..T.x...:..
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :ae d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08	...+/..T.x...:..
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :92 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae	..A.........?...
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :92 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae	..A.........?...
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca	3....0.......c..
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca	3....0.......c..
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :70 33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19	p3.pU>\AL.&.A.a.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :70 33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19	p3.pU>\AL.&.A.a.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :7f ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82	...G.....]......
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :7f ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82	...G.....]......
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :9c a9 00 69 02 01 01 03 81 82 00 04 26 4b 44 cb	...i........&KD.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :9c a9 00 69 02 01 01 03 81 82 00 04 26 4b 44 cb	...i........&KD.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :58 6d 5a 53 03 10 2b c5 f9 43 28 81 45 fb b1 62	XmZS..+..C(.E..b
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :58 6d 5a 53 03 10 2b c5 f9 43 28 81 45 fb b1 62	XmZS..+..C(.E..b
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :73 20 88 c6 ad 76 7e 1b 8a 3f de 48 7b cb e6 83	s ...v~..?.H{...
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :73 20 88 c6 ad 76 7e 1b 8a 3f de 48 7b cb e6 83	s ...v~..?.H{...
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :f5 8a b7 d3 c3 8d 62 f2 1f b3 37 43 64 fe 57 da	......b...7Cd.W.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :f5 8a b7 d3 c3 8d 62 f2 1f b3 37 43 64 fe 57 da	......b...7Cd.W.
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :6f 50 4c 99 a7 b9 97 47 63 62 68 3f 76 9a c2 21	oPL....Gcbh?v..!
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :6f 50 4c 99 a7 b9 97 47 63 62 68 3f 76 9a c2 21	oPL....Gcbh?v..!
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :63 ce 59 34 cf 7a c8 c2 e1 96 e4 16 d0 db 91 46	c.Y4.z.........F
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :63 ce 59 34 cf 7a c8 c2 e1 96 e4 16 d0 db 91 46	c.Y4.z.........F
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :bd 61 a4 7a a4 dc de 61 e2 8d 59 1c 19 02 0e 22	.a.z...a..Y...."
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :bd 61 a4 7a a4 dc de 61 e2 8d 59 1c 19 02 0e 22	.a.z...a..Y...."
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :db b8 9a 6d fa 62 23 37 90 7b db 65 51 05 98 54	...m.b#7.{.eQ..T
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :db b8 9a 6d fa 62 23 37 90 7b db 65 51 05 98 54	...m.b#7.{.eQ..T
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :a0 ac 99 ac b1 53 91 69 02 51 e2 a8            	.....S.i.Q..
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :a0 ac 99 ac b1 53 91 69 02 51 e2 a8            	.....S.i.Q..
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :(CA info 1): protocol OID: id-CA-ECDH-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :(CA info 1): protocol OID: id-CA-ECDH-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :dg 14: 1 TA info(s) found
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :dg 14: 1 TA info(s) found
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :(TA info 1): version 1
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :(TA info 1): version 1
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Protocol: ChipAuthentication - Start
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Protocol: ChipAuthentication - Start
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Info: KeyId - No ID
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Info: KeyId - No ID
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::getRawPubKey - Cutting byte for unused bits (bitsting encoding)
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::getRawPubKey - Cutting byte for unused bits (bitsting encoding)
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performChipAuthentication - Initializing DH-Agreement (algorithm: ECDH)
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performChipAuthentication - Initializing DH-Agreement (algorithm: ECDH)
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performChipAuthentication - Generating DH key pair
+-------------------------------
+
+Log Entry : 4:25:24 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performChipAuthentication - Generating DH key pair
+-------------------------------
+
+Log Entry : 4:25:25 PM Thursday, September 15, 2022
+  :
+  :Protocol: ChipAuthentication - End
+-------------------------------
+
+Log Entry : 4:25:25 PM Thursday, September 15, 2022
+  :
+  :Protocol: ChipAuthentication - End
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CVCA - Start
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CVCA - Start
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CVCA - End
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :ReadData: EF.CVCA - End
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :performing TA with dynamic binding
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :performing TA with dynamic binding
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :Protocol: TerminalAuthentication - Start
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :Protocol: TerminalAuthentication - Start
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :Info: TerminalType - inspection system
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :Info: TerminalType - inspection system
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 4:25:26 PM Thursday, September 15, 2022
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performTerminalAuthentication - Performing MSE:SetAT
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::performTerminalAuthentication - Performing MSE:SetAT
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Info: Binding - dynamic
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Info: Binding - dynamic
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Info: Algorithm - id-TA-ECDSA-SHA-512
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Info: Algorithm - id-TA-ECDSA-SHA-512
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Protocol: TerminalAuthentication - End
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Protocol: TerminalAuthentication - End
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG3 - Start
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG3 - Start
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 18
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 18
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG3 - End
+-------------------------------
+
+Log Entry : 4:25:27 PM Thursday, September 15, 2022
+  :
+  :ReadData: ePass.DG3 - End
+-------------------------------

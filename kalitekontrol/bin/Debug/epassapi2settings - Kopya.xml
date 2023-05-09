@@ -1,0 +1,42 @@
+<Settings>
+	<Device>	
+		<Icon>
+			<AntennaHandling>1</AntennaHandling>
+			<PollingConfig>
+				<RemovalPersist>00</RemovalPersist>
+			</PollingConfig>
+			<ISO14443A>
+				<BaudrateTx>00</BaudrateTx>
+				<BaudrateRx>00</BaudrateRx>
+				<Register Antenna="0" Number="10">09</Register>
+				<Register Antenna="1" Number="10">01</Register>
+			</ISO14443A>
+		</Icon>			
+		<Penta>
+			<AntennaHandling>1</AntennaHandling>
+			<PollingConfig>
+				<RemovalPersist>00</RemovalPersist>
+			</PollingConfig>
+		</Penta>
+		<SmartCardReader>
+			<AntennaHandling>2</AntennaHandling>
+		</SmartCardReader>
+		<Other>
+			<PollingConfig>
+				<RemovalPersist>00</RemovalPersist>
+			</PollingConfig>
+			<AntennaHandling>0</AntennaHandling>
+		</Other>		
+	</Device>
+	<Api>
+		<SleepTimer>
+			<AfterSetActiveAntenna>501</AfterSetActiveAntenna>
+			<AfterRFFieldOff>2001</AfterRFFieldOff>
+			<InWaitForCardPresent>101</InWaitForCardPresent>
+			<WaitForCardPresentMax>1601</WaitForCardPresentMax>
+			<AfterScardGetStatusChangeTimeout>101</AfterScardGetStatusChangeTimeout>
+			<EnableRFFieldReset>0</EnableRFFieldReset>
+			<WaitAfterRFFieldReset>2001</WaitAfterRFFieldReset>
+		</SleepTimer>		
+	</Api>
+</Settings>

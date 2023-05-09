@@ -1,0 +1,4820 @@
+
+Log Entry : 4:27:58 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:27:58 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:27:58 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:27:58 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:27:58 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:27:58 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:28:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 10848
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 10848
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 88
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 88
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 27
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 27
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:28:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:28:13 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:28:13 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:28:13 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:28:13 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:28:13 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:28:13 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:28:13 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:28:13 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:28:13 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:28:13 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6882
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6882
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 22
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 22
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :EF.CARDACCESS: 1 PACE info(s) found
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :EF.CARDACCESS: 1 PACE info(s) found
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :30 82 01 ac 02 01 01 30 4d 06 07 2a 86 48 ce 3d	0......0M..*.H.=
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :30 82 01 ac 02 01 01 30 4d 06 07 2a 86 48 ce 3d	0......0M..*.H.=
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :01 01 02 42 01 ff ff ff ff ff ff ff ff ff ff ff	...B............
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :01 01 02 42 01 ff ff ff ff ff ff ff ff ff ff ff	...B............
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff 30 81 88 04 42 01 ff ff ff ff	......0...B.....
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff 30 81 88 04 42 01 ff ff ff ff	......0...B.....
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fc 04 42 00	..............B.
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fc 04 42 00	..............B.
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :51 95 3e b9 61 8e 1c 9a 1f 92 9a 21 a0 b6 85 40	Q.>.a......!...@
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :51 95 3e b9 61 8e 1c 9a 1f 92 9a 21 a0 b6 85 40	Q.>.a......!...@
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ee a2 da 72 5b 99 b3 15 f3 b8 b4 89 91 8e f1 09	...r[...........
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ee a2 da 72 5b 99 b3 15 f3 b8 b4 89 91 8e f1 09	...r[...........
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :e1 56 19 39 51 ec 7e 93 7b 16 52 c0 bd 3b b1 bf	.V.9Q.~.{.R..;..
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :e1 56 19 39 51 ec 7e 93 7b 16 52 c0 bd 3b b1 bf	.V.9Q.~.{.R..;..
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :07 35 73 df 88 3d 2c 34 f1 ef 45 1f d4 6b 50 3f	.5s..=,4..E..kP?
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :07 35 73 df 88 3d 2c 34 f1 ef 45 1f d4 6b 50 3f	.5s..=,4..E..kP?
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :00 04 81 85 04 00 c6 85 8e 06 b7 04 04 e9 cd 9e	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :00 04 81 85 04 00 c6 85 8e 06 b7 04 04 e9 cd 9e	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :3e cb 66 23 95 b4 42 9c 64 81 39 05 3f b5 21 f8	>.f#..B.d.9.?.!.
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :3e cb 66 23 95 b4 42 9c 64 81 39 05 3f b5 21 f8	>.f#..B.d.9.?.!.
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :28 af 60 6b 4d 3d ba a1 4b 5e 77 ef e7 59 28 fe	(.`kM=..K^w..Y(.
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :28 af 60 6b 4d 3d ba a1 4b 5e 77 ef e7 59 28 fe	(.`kM=..K^w..Y(.
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :1d c1 27 a2 ff a8 de 33 48 b3 c1 85 6a 42 9b f9	..'....3H...jB..
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :1d c1 27 a2 ff a8 de 33 48 b3 c1 85 6a 42 9b f9	..'....3H...jB..
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :7e 7e 31 c2 e5 bd 66 01 18 39 29 6a 78 9a 3b c0	~~1...f..9)jx.;.
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :7e 7e 31 c2 e5 bd 66 01 18 39 29 6a 78 9a 3b c0	~~1...f..9)jx.;.
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :04 5c 8a 5f b4 2c 7d 1b d9 98 f5 44 49 57 9b 44	.\._.,}....DIW.D
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :04 5c 8a 5f b4 2c 7d 1b d9 98 f5 44 49 57 9b 44	.\._.,}....DIW.D
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :68 17 af bd 17 27 3e 66 2c 97 ee 72 99 5e f4 26	h....'>f,..r.^.&
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :68 17 af bd 17 27 3e 66 2c 97 ee 72 99 5e f4 26	h....'>f,..r.^.&
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :40 c5 50 b9 01 3f ad 07 61 35 3c 70 86 a2 72 c2	@.P..?..a5<p..r.
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :40 c5 50 b9 01 3f ad 07 61 35 3c 70 86 a2 72 c2	@.P..?..a5<p..r.
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :40 88 be 94 76 9f d1 66 50 02 42 01 ff ff ff ff	@...v..fP.B.....
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :40 88 be 94 76 9f d1 66 50 02 42 01 ff ff ff ff	@...v..fP.B.....
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fa 51 86 87	.............Q..
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fa 51 86 87	.............Q..
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :83 bf 2f 96 6b 7f cc 01 48 f7 09 a5 d0 3b b5 c9	../.k...H....;..
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :83 bf 2f 96 6b 7f cc 01 48 f7 09 a5 d0 3b b5 c9	../.k...H....;..
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :b8 89 9c 47 ae bb 6f b7 1e 91 38 64 09 02 01 01	...G..o...8d....
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :b8 89 9c 47 ae bb 6f b7 1e 91 38 64 09 02 01 01	...G..o...8d....
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :using PACE info 1 (of 1), version 2, OID id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :using PACE info 1 (of 1), version 2, OID id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Protocol: PACE - Start
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Protocol: PACE - Start
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Info: Version - 2
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Info: Version - 2
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Info: SharedPasswordType - MRZ (0x01)
+-------------------------------
+
+Log Entry : 4:28:14 PM Monday, February 27, 2023
+  :
+  :Info: SharedPasswordType - MRZ (0x01)
+-------------------------------
+
+Log Entry : 4:28:37 PM Monday, February 27, 2023
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 4:28:37 PM Monday, February 27, 2023
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :Info: DH-KA Algorithm - ECDH
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :Info: DH-KA Algorithm - ECDH
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::performPACE - Generating DH key pair
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::performPACE - Generating DH key pair
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::performPACE - Preparing exchange of PCD authentication tokens
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::performPACE - Preparing exchange of PCD authentication tokens
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::performPACE - Preparing exchange of ICC authentication tokens
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::performPACE - Preparing exchange of ICC authentication tokens
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :Protocol: PACE - End
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :Protocol: PACE - End
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:28:38 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :dg 14: 1 CA info(s) found
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :dg 14: 1 CA info(s) found
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :(CA info 1): version 1
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :(CA info 1): version 1
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :(CA info 1): public key info:
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :(CA info 1): public key info:
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :30 82 02 46 30 82 01 b9 06 07 2a 86 48 ce 3d 02	0..F0.....*.H.=.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :30 82 02 46 30 82 01 b9 06 07 2a 86 48 ce 3d 02	0..F0.....*.H.=.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :01 30 82 01 ac 02 01 01 30 4d 06 07 2a 86 48 ce	.0......0M..*.H.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :01 30 82 01 ac 02 01 01 30 4d 06 07 2a 86 48 ce	.0......0M..*.H.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :3d 01 01 02 42 01 ff ff ff ff ff ff ff ff ff ff	=...B...........
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :3d 01 01 02 42 01 ff ff ff ff ff ff ff ff ff ff	=...B...........
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff 30 81 88 04 42 01 ff ff ff	.......0...B....
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff 30 81 88 04 42 01 ff ff ff	.......0...B....
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff fc 04 42	...............B
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff fc 04 42	...............B
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :00 51 95 3e b9 61 8e 1c 9a 1f 92 9a 21 a0 b6 85	.Q.>.a......!...
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :00 51 95 3e b9 61 8e 1c 9a 1f 92 9a 21 a0 b6 85	.Q.>.a......!...
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :40 ee a2 da 72 5b 99 b3 15 f3 b8 b4 89 91 8e f1	@...r[..........
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :40 ee a2 da 72 5b 99 b3 15 f3 b8 b4 89 91 8e f1	@...r[..........
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :09 e1 56 19 39 51 ec 7e 93 7b 16 52 c0 bd 3b b1	..V.9Q.~.{.R..;.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :09 e1 56 19 39 51 ec 7e 93 7b 16 52 c0 bd 3b b1	..V.9Q.~.{.R..;.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :bf 07 35 73 df 88 3d 2c 34 f1 ef 45 1f d4 6b 50	..5s..=,4..E..kP
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :bf 07 35 73 df 88 3d 2c 34 f1 ef 45 1f d4 6b 50	..5s..=,4..E..kP
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :3f 00 04 81 85 04 00 c6 85 8e 06 b7 04 04 e9 cd	?...............
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :3f 00 04 81 85 04 00 c6 85 8e 06 b7 04 04 e9 cd	?...............
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :9e 3e cb 66 23 95 b4 42 9c 64 81 39 05 3f b5 21	.>.f#..B.d.9.?.!
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :9e 3e cb 66 23 95 b4 42 9c 64 81 39 05 3f b5 21	.>.f#..B.d.9.?.!
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :f8 28 af 60 6b 4d 3d ba a1 4b 5e 77 ef e7 59 28	.(.`kM=..K^w..Y(
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :f8 28 af 60 6b 4d 3d ba a1 4b 5e 77 ef e7 59 28	.(.`kM=..K^w..Y(
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :fe 1d c1 27 a2 ff a8 de 33 48 b3 c1 85 6a 42 9b	...'....3H...jB.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :fe 1d c1 27 a2 ff a8 de 33 48 b3 c1 85 6a 42 9b	...'....3H...jB.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :f9 7e 7e 31 c2 e5 bd 66 01 18 39 29 6a 78 9a 3b	.~~1...f..9)jx.;
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :f9 7e 7e 31 c2 e5 bd 66 01 18 39 29 6a 78 9a 3b	.~~1...f..9)jx.;
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :c0 04 5c 8a 5f b4 2c 7d 1b d9 98 f5 44 49 57 9b	..\._.,}....DIW.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :c0 04 5c 8a 5f b4 2c 7d 1b d9 98 f5 44 49 57 9b	..\._.,}....DIW.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :44 68 17 af bd 17 27 3e 66 2c 97 ee 72 99 5e f4	Dh....'>f,..r.^.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :44 68 17 af bd 17 27 3e 66 2c 97 ee 72 99 5e f4	Dh....'>f,..r.^.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :26 40 c5 50 b9 01 3f ad 07 61 35 3c 70 86 a2 72	&@.P..?..a5<p..r
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :26 40 c5 50 b9 01 3f ad 07 61 35 3c 70 86 a2 72	&@.P..?..a5<p..r
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :c2 40 88 be 94 76 9f d1 66 50 02 42 01 ff ff ff	.@...v..fP.B....
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :c2 40 88 be 94 76 9f d1 66 50 02 42 01 ff ff ff	.@...v..fP.B....
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff fa 51 86	..............Q.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff fa 51 86	..............Q.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :87 83 bf 2f 96 6b 7f cc 01 48 f7 09 a5 d0 3b b5	.../.k...H....;.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :87 83 bf 2f 96 6b 7f cc 01 48 f7 09 a5 d0 3b b5	.../.k...H....;.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :c9 b8 89 9c 47 ae bb 6f b7 1e 91 38 64 09 02 01	....G..o...8d...
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :c9 b8 89 9c 47 ae bb 6f b7 1e 91 38 64 09 02 01	....G..o...8d...
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :01 03 81 86 00 04 01 09 14 d7 c5 c7 fe 36 90 da	.............6..
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :01 03 81 86 00 04 01 09 14 d7 c5 c7 fe 36 90 da	.............6..
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :12 eb 6c 42 21 9a a0 31 3b 75 9b 4e 24 1f 2d 2f	..lB!..1;u.N$.-/
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :12 eb 6c 42 21 9a a0 31 3b 75 9b 4e 24 1f 2d 2f	..lB!..1;u.N$.-/
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :66 9b 74 4f 15 ba a6 4b 9b fe 72 90 8e a1 5a 3c	f.tO...K..r...Z<
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :66 9b 74 4f 15 ba a6 4b 9b fe 72 90 8e a1 5a 3c	f.tO...K..r...Z<
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :dc 72 ee c9 8d a9 a7 b6 33 60 d7 71 ad c7 7e c5	.r......3`.q..~.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :dc 72 ee c9 8d a9 a7 b6 33 60 d7 71 ad c7 7e c5	.r......3`.q..~.
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :56 e5 85 49 3f cd a6 85 00 82 a5 11 d7 94 b4 07	V..I?...........
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :56 e5 85 49 3f cd a6 85 00 82 a5 11 d7 94 b4 07	V..I?...........
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :dc 6f 6a 10 c6 83 75 9b 51 56 30 51 a4 22 b2 86	.oj...u.QV0Q."..
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :dc 6f 6a 10 c6 83 75 9b 51 56 30 51 a4 22 b2 86	.oj...u.QV0Q."..
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :5a e1 b3 f3 7e 57 d4 e4 3e 20 07 12 50 45 32 30	Z...~W..> ..PE20
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :5a e1 b3 f3 7e 57 d4 e4 3e 20 07 12 50 45 32 30	Z...~W..> ..PE20
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :4b a0 ee 8b 0e b4 e1 55 20 f9 23 e2 25 b7 8d 17	K......U .#.%...
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :4b a0 ee 8b 0e b4 e1 55 20 f9 23 e2 25 b7 8d 17	K......U .#.%...
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :96 e5 db 55 d6 d9 3b 6c ff 8b                  	...U..;l..
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :96 e5 db 55 d6 d9 3b 6c ff 8b                  	...U..;l..
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :(CA info 1): protocol OID: id-CA-ECDH-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :(CA info 1): protocol OID: id-CA-ECDH-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :dg 14: 1 TA info(s) found
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :dg 14: 1 TA info(s) found
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :(TA info 1): version 1
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :(TA info 1): version 1
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Protocol: ChipAuthentication - Start
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Protocol: ChipAuthentication - Start
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Info: KeyId - No ID
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Info: KeyId - No ID
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::getRawPubKey - Cutting byte for unused bits (bitsting encoding)
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::getRawPubKey - Cutting byte for unused bits (bitsting encoding)
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::performChipAuthentication - Initializing DH-Agreement (algorithm: ECDH)
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::performChipAuthentication - Initializing DH-Agreement (algorithm: ECDH)
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::performChipAuthentication - Generating DH key pair
+-------------------------------
+
+Log Entry : 4:28:39 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::performChipAuthentication - Generating DH key pair
+-------------------------------
+
+Log Entry : 4:28:40 PM Monday, February 27, 2023
+  :
+  :Protocol: ChipAuthentication - End
+-------------------------------
+
+Log Entry : 4:28:40 PM Monday, February 27, 2023
+  :
+  :Protocol: ChipAuthentication - End
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CVCA - Start
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CVCA - Start
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CVCA - End
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CVCA - End
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :performing TA with dynamic binding
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :performing TA with dynamic binding
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :Protocol: TerminalAuthentication - Start
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :Protocol: TerminalAuthentication - Start
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :Info: TerminalType - inspection system
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :Info: TerminalType - inspection system
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 4:28:41 PM Monday, February 27, 2023
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::performTerminalAuthentication - Performing MSE:SetAT
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::performTerminalAuthentication - Performing MSE:SetAT
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Info: Binding - dynamic
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Info: Binding - dynamic
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Info: Algorithm - id-TA-ECDSA-SHA-512
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Info: Algorithm - id-TA-ECDSA-SHA-512
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Protocol: TerminalAuthentication - End
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Protocol: TerminalAuthentication - End
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG3 - Start
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG3 - Start
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 14
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 14
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG3 - End
+-------------------------------
+
+Log Entry : 4:28:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG3 - End
+-------------------------------
+
+Log Entry : 4:28:43 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.SOD - Start
+-------------------------------
+
+Log Entry : 4:28:43 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.SOD - Start
+-------------------------------
+
+Log Entry : 4:28:43 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 2508
+-------------------------------
+
+Log Entry : 4:28:43 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 2508
+-------------------------------
+
+Log Entry : 4:28:43 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.SOD - End
+-------------------------------
+
+Log Entry : 4:28:43 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.SOD - End
+-------------------------------
+
+Log Entry : 4:29:36 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:29:36 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:29:36 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:29:36 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:29:36 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:29:36 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 22
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 22
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :EF.CARDACCESS: 1 PACE info(s) found
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :EF.CARDACCESS: 1 PACE info(s) found
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :30 82 01 ac 02 01 01 30 4d 06 07 2a 86 48 ce 3d	0......0M..*.H.=
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :30 82 01 ac 02 01 01 30 4d 06 07 2a 86 48 ce 3d	0......0M..*.H.=
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :01 01 02 42 01 ff ff ff ff ff ff ff ff ff ff ff	...B............
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :01 01 02 42 01 ff ff ff ff ff ff ff ff ff ff ff	...B............
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff 30 81 88 04 42 01 ff ff ff ff	......0...B.....
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff 30 81 88 04 42 01 ff ff ff ff	......0...B.....
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fc 04 42 00	..............B.
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fc 04 42 00	..............B.
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :51 95 3e b9 61 8e 1c 9a 1f 92 9a 21 a0 b6 85 40	Q.>.a......!...@
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :51 95 3e b9 61 8e 1c 9a 1f 92 9a 21 a0 b6 85 40	Q.>.a......!...@
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ee a2 da 72 5b 99 b3 15 f3 b8 b4 89 91 8e f1 09	...r[...........
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ee a2 da 72 5b 99 b3 15 f3 b8 b4 89 91 8e f1 09	...r[...........
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :e1 56 19 39 51 ec 7e 93 7b 16 52 c0 bd 3b b1 bf	.V.9Q.~.{.R..;..
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :e1 56 19 39 51 ec 7e 93 7b 16 52 c0 bd 3b b1 bf	.V.9Q.~.{.R..;..
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :07 35 73 df 88 3d 2c 34 f1 ef 45 1f d4 6b 50 3f	.5s..=,4..E..kP?
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :07 35 73 df 88 3d 2c 34 f1 ef 45 1f d4 6b 50 3f	.5s..=,4..E..kP?
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :00 04 81 85 04 00 c6 85 8e 06 b7 04 04 e9 cd 9e	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :00 04 81 85 04 00 c6 85 8e 06 b7 04 04 e9 cd 9e	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :3e cb 66 23 95 b4 42 9c 64 81 39 05 3f b5 21 f8	>.f#..B.d.9.?.!.
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :3e cb 66 23 95 b4 42 9c 64 81 39 05 3f b5 21 f8	>.f#..B.d.9.?.!.
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :28 af 60 6b 4d 3d ba a1 4b 5e 77 ef e7 59 28 fe	(.`kM=..K^w..Y(.
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :28 af 60 6b 4d 3d ba a1 4b 5e 77 ef e7 59 28 fe	(.`kM=..K^w..Y(.
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :1d c1 27 a2 ff a8 de 33 48 b3 c1 85 6a 42 9b f9	..'....3H...jB..
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :1d c1 27 a2 ff a8 de 33 48 b3 c1 85 6a 42 9b f9	..'....3H...jB..
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :7e 7e 31 c2 e5 bd 66 01 18 39 29 6a 78 9a 3b c0	~~1...f..9)jx.;.
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :7e 7e 31 c2 e5 bd 66 01 18 39 29 6a 78 9a 3b c0	~~1...f..9)jx.;.
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :04 5c 8a 5f b4 2c 7d 1b d9 98 f5 44 49 57 9b 44	.\._.,}....DIW.D
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :04 5c 8a 5f b4 2c 7d 1b d9 98 f5 44 49 57 9b 44	.\._.,}....DIW.D
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :68 17 af bd 17 27 3e 66 2c 97 ee 72 99 5e f4 26	h....'>f,..r.^.&
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :68 17 af bd 17 27 3e 66 2c 97 ee 72 99 5e f4 26	h....'>f,..r.^.&
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :40 c5 50 b9 01 3f ad 07 61 35 3c 70 86 a2 72 c2	@.P..?..a5<p..r.
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :40 c5 50 b9 01 3f ad 07 61 35 3c 70 86 a2 72 c2	@.P..?..a5<p..r.
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :40 88 be 94 76 9f d1 66 50 02 42 01 ff ff ff ff	@...v..fP.B.....
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :40 88 be 94 76 9f d1 66 50 02 42 01 ff ff ff ff	@...v..fP.B.....
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fa 51 86 87	.............Q..
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fa 51 86 87	.............Q..
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :83 bf 2f 96 6b 7f cc 01 48 f7 09 a5 d0 3b b5 c9	../.k...H....;..
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :83 bf 2f 96 6b 7f cc 01 48 f7 09 a5 d0 3b b5 c9	../.k...H....;..
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :b8 89 9c 47 ae bb 6f b7 1e 91 38 64 09 02 01 01	...G..o...8d....
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :b8 89 9c 47 ae bb 6f b7 1e 91 38 64 09 02 01 01	...G..o...8d....
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:29:40 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:29:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:29:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:29:42 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:29:42 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:29:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:29:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:29:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:29:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:29:43 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:29:43 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:29:43 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:29:43 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:29:43 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:29:43 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:29:43 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:29:43 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:29:43 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:29:43 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:30:04 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:30:04 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:30:04 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:30:04 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:30:04 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:30:04 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:30:08 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:30:09 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:30:09 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:30:09 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:30:09 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:30:10 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:30:10 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:30:40 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:30:44 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:30:44 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:30:44 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:30:44 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:30:44 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:30:44 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:30:44 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:30:44 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:30:44 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:30:44 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:30:44 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:32:18 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:32:18 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:32:18 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:32:18 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:32:18 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:32:18 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:32:22 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:32:22 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:32:22 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:32:22 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:32:23 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:32:23 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:33:22 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:33:22 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:33:22 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:33:22 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:33:22 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:33:22 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:33:26 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:33:27 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:33:27 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:33:27 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:33:27 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:33:28 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:33:28 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:33:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:33:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:33:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:33:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:33:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:33:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:33:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:33:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:33:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:33:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:33:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:33:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:34:17 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:34:17 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:34:17 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:34:17 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:34:17 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:34:17 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:34:21 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:34:22 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:34:22 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:34:22 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:34:22 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:34:23 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:34:23 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:34:27 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:34:27 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:34:27 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:34:27 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:34:27 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:34:27 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:34:27 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:34:27 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:34:27 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:34:27 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:34:27 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:34:27 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:34:50 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:34:50 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:34:50 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:34:50 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:34:50 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:34:50 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:34:53 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:34:54 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:34:54 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:34:54 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:34:54 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:34:55 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:34:55 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:34:57 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:34:57 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:34:57 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:34:57 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:34:57 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:34:57 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:34:57 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:34:57 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:34:57 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:34:57 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:34:57 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:34:57 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:35:27 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:35:27 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:35:27 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:35:27 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:35:27 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:35:27 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:35:31 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:35:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:35:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:35:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:35:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:35:33 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:35:33 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:35:59 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:35:59 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:35:59 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:35:59 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:35:59 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:35:59 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:36:03 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:36:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:36:04 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:36:04 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:36:04 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:36:05 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:36:05 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:36:06 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:36:06 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:36:06 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:36:06 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:36:06 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:36:06 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:36:10 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:36:10 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:36:10 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:36:10 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:36:10 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:36:10 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:36:27 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:36:27 PM Monday, February 27, 2023
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 4:36:27 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:36:27 PM Monday, February 27, 2023
+  :
+  :  found ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 4:36:27 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:36:27 PM Monday, February 27, 2023
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\hayreddin.bas\Documents\ShareVirtual\20171129\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 is not a valid Win32 application.
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 661
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:36:32 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 4:36:33 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:36:33 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 4:36:33 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:36:33 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 16153
+-------------------------------
+
+Log Entry : 4:36:34 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:36:34 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 4:36:37 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:36:37 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 4:36:37 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:36:37 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 142
+-------------------------------
+
+Log Entry : 4:36:37 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:36:37 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 4:36:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:36:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 4:36:42 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:36:42 PM Monday, February 27, 2023
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 30
+-------------------------------
+
+Log Entry : 4:36:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 4:36:42 PM Monday, February 27, 2023
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------

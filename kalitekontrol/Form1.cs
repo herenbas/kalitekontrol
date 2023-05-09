@@ -14,6 +14,8 @@ using System.Windows.Forms;
 using Org.BouncyCastle;
 using System.Runtime.InteropServices;
 using Desko.EPass.Types;
+using Desko.EPass;
+using System.Threading;
 
 namespace kalitekontrol
 {
@@ -34,15 +36,17 @@ namespace kalitekontrol
 
         public string cihaz;
       
+      
         private void button1_Click(object sender, EventArgs e)
         {
             readPassportBAC();
+            
         }
         public void readPassportBAC()
         {
             //OMNIKEY CardMan 5x21-CL 0
 
-          
+         
 
            Desko.EPass.Passport passport = Desko.EPass.Framework.Instance.GetPassport("DESKO GmbH SmartCard Reader 0", Desko.EPass.Types.ShareMode.Exclusive);
 
@@ -66,7 +70,7 @@ namespace kalitekontrol
                 {
                     // Enter printed MRZ for accessing the passport
                     // Console.WriteLine("Enter MRZ of passport...");
-                    String mrz = richTextBox1.Text;
+                    //String mrz = richTextBox1.Text;
                     //Console.WriteLine("");
 
 
@@ -75,6 +79,11 @@ namespace kalitekontrol
 
                     passport.Initialize(Desko.EPass.Types.ShareMode.Direct);
                     passport.Authenticate(Desko.EPass.Types.AuthenticationType.BAC, (mrzl[0].ToString() + mrzl[1].ToString()), Desko.EPass.Types.SecretType.MRZ);
+
+
+                   // passport.Authenticate(Desko.EPass.Types.AuthenticationType.BAC, mrz, Desko.EPass.Types.SecretType.MRZ);
+
+                  
 
 
                     // Print passport details
@@ -120,7 +129,8 @@ namespace kalitekontrol
                         img.Save(Path.Combine(Path.GetTempPath(), "chipImage.png"));
 
                         pictureBox1.Image = img;
-                        //label2.Text = passport.GetPersonalDetails().FullName;
+                        label2.Text = passport.GetPersonalDetails().FullName;
+                        MessageBox.Show(passport.GetPersonalDetails().PersonalNumber);
                         //label3.Text = passport.GetPersonalDetails().PlaceOfBirth;
                         //label4.Text = passport.GetPersonalDetails().PersonalNumber;
                         //label5.Text = passport.GetPersonalDetails().DocNumber;
@@ -132,7 +142,7 @@ namespace kalitekontrol
                         ////label12.Text = passport.GetDocumentDetails().IssuingAuthority;
                         //label13.Text = passport.GetDocumentDetails().DateOfIssue;
 
-                       // MessageBox.Show(passport.GetPersonalDetails().DateOfBirth.ToString());
+                        // MessageBox.Show(passport.GetPersonalDetails().DateOfBirth.ToString());
                         //MessageBox.Show(passport.GetPersonalDetails().FullName);
                         label25.Text = passport.GetPersonalDetails().FullName.ToString();
                        // label26.Text= passport.GetPersonalDetails().OtherNames.ToString();
@@ -180,11 +190,11 @@ namespace kalitekontrol
 
 
 
-            // mrz = args.Mrz.Replace("\r", "\r\n") + "\r\n";
+             mrz = args.Mrz.Replace("\r", "\r\n") + "\r\n";
              mrz = args.Mrz;
-          //  mrz = "PDTURKASAPOGLU<<GOKHAN<<<<<<<<<<<<<<<<<<<<<<P900280947TUR4503314M280331933271506666<<<34";
+            //  mrz = "P<TURORNEK<<ZEYNEP<<<<<<<<<<<<<<<<<<<<<<<<<<U203004887TUR8408141F311125368752643956<<<94";
 
-
+           // mrz = "P<TURORNEK<<ZEYNEP<<<<<<<<<<<<<<<<<<<<<<<<<<"+"\n"+ "U900292512TUR8408141F320302068776506260<<<70";
             richTextBox1.Text = mrz;
             mrzl = richTextBox1.Lines;
 
@@ -194,6 +204,7 @@ namespace kalitekontrol
             label6.Text = mrz;
             readPassportBAC();
             device.Snapshot.Perform();
+            
 
             device.Snapshot.Infrared.GetClipping(Clipping.Document);
             //MessageBox.Show(mrz);
@@ -223,7 +234,7 @@ namespace kalitekontrol
             device.Feedback.Led.Color = Desko.Scan.Color.Red;
             device.Feedback.Led.Duration = 600;
             //  basicLog.ThreadSafeAppendLine("Feedback GOOD.");
-            device.Feedback.Perform();
+          //  device.Feedback.Perform();
         }
 
         private void doSnapshot()
@@ -234,6 +245,7 @@ namespace kalitekontrol
 
             ScanLightSettings settings = null;
             ScanLightControl control = null;
+            Buzzer bb = null; 
 
             settings = scanLightSettings1;
             control = scanLightControl1;
@@ -246,7 +258,7 @@ namespace kalitekontrol
                 controlIr.Reset();
             }
             settings = scansettingsUv;
-            control = controlUv;
+           
             {
                 Desko.Scan.ScanFlags flags = settings.ScanFlags;
 
@@ -264,6 +276,7 @@ namespace kalitekontrol
                 device.Snapshot.Ultraviolet.Enabled = settings.checkUse.Checked;
                 device.Snapshot.Ultraviolet.Flags = flags;
                 device.Snapshot.Ultraviolet.ShutterWidthFactor = settings.ShutterWidthFactor;
+             
                 controlIr.Reset();
             }
 
@@ -274,6 +287,9 @@ namespace kalitekontrol
         }
         private void button2_Click(object sender, EventArgs e)
         {
+           // Desko.EPass.Framework.Instance.DeactivateAntenna("DESKO GmbH SmartCard Reader 0");
+           // Thread.Sleep(1000);
+           // Desko.EPass.Framework.Instance.ActivateAntenna("DESKO GmbH SmartCard Reader 0");
             Desko.Scan.Snapshot snapshot = device.Snapshot;
 
 
@@ -293,7 +309,8 @@ namespace kalitekontrol
             FeedbackGood();
             richTextBox1.SaveFile("mrz.txt");
 
-
+       
+            
 
 
 
@@ -305,6 +322,7 @@ namespace kalitekontrol
         {
             // device.Open();
             Desko.EPass.Framework.Instance.InitializeFramework();
+            
             device = new Desko.Scan.Device(null);
             //persistentMemory.InitializeThis(device);
 
@@ -429,117 +447,139 @@ namespace kalitekontrol
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            openFileDialog1.ShowDialog();
             try
             {
                 Desko.EPass.Passport passport = Desko.EPass.Framework.Instance.GetPassport("DESKO GmbH SmartCard Reader 0", Desko.EPass.Types.ShareMode.Exclusive);
-
+               
                 passport.Initialize(Desko.EPass.Types.ShareMode.Shared);
                 string fullmrz = mrzl[0] + mrzl[1];
-              
 
-                string gercsca = @"C:\Users\hayreddin.bas\Documents\PASAPORT_SERTIFIKA_EGM_CALISMA\PROD\CSCAV1DER.cer";
-                string gercscacer = @"C:\Users\hayreddin.bas\Documents\PASAPORT_SERTIFIKA_EGM_CALISMA\PROD\CSCAV1.cer";
-                string gercscacrt = @"C:\Users\hayreddin.bas\Documents\PASAPORT_SERTIFIKA_EGM_CALISMA\PROD\CSCAV1DER.crt";
-
-                string oldcsca = @"C:\Users\hayreddin.bas\Desktop\tubitak toplantı\CSCA-2016\CSCA2016DER.cer";
-
-                string testyencsca = @"C:\Users\hayreddin.bas\Desktop\keys\pasaport sertifikaları\TEST\TESTCSCADER.cer";
-
-                string link = @"D:\dışişleri\Link.cer";
-
-                string bulg = @"C:\Users\hayreddin.bas\Downloads\bg_csca_16042014\bulg.cer";
-
-
-                string certson = @"C:\Users\hayreddin.bas\Desktop\RSA PROD\RSADERCSCA.cer";
-
-
-                string named = @"C:\Users\hayreddin.bas\Documents\muhammet-CSCALAR\csca - named.der";
-
-                string expl = @"C:\Users\hayreddin.bas\Documents\muhammet-CSCALAR\csca - explicit.der";
-
-
-                string CSCA_SON = @"C:\Users\hayreddin.bas\Desktop\keys\pasaport sertifikaları\PROD\CSCATR_S1.cer";
-
-                string Link_Son = @"C:\Users\hayreddin.bas\Desktop\keys\pasaport sertifikaları\PROD\CSCA-link-certificate2016-2018.crl";
-
-                string DVCA = @"C:\Users\hayreddin.bas\Documents\silnecekprod\TRDVCAEPASS.cvc";
-
-                string iscert = @"C:\Users\hayreddin.bas\Documents\yeni_is\16.cvc";
-
-                string is_key = @"C:\Users\hayreddin.bas\Documents\yeni_is\pk2.pkcs8";
-
-                Desko.EPass.Framework fr = new Desko.EPass.Framework();
-                fr.TerminalAuthenticationMode = Desko.EPass.Types.TerminalAuthenticationMode.LocalStorage;
-                fr.PassiveAuthenticationMode = Desko.EPass.Types.PassiveAuthenticationMode.LocalStorage;
-               // Desko.EPass.Framework.Instance.PassiveAuthenticationMode = Desko.EPass.Types.PassiveAuthenticationMode.LocalStorage;
-                //Desko.EPass.Framework.Instance.TerminalAuthenticationMode = Desko.EPass.Types.TerminalAuthenticationMode.LocalStorage;
                
-                //TerminalType type = new TerminalType();
-                //type = TerminalType.AuthenticationTerminal;
-                //device.AbortLongTermOperation();
+                // string gercsca = @"C:\Users\Eren BAŞ\Documents\PASAPORT_SERTIFIKA_EGM_CALISMA\PROD\CSCAV1DER.cer";
+                //string gercscacer = @"C:\Users\Eren BAŞ\Documents\PASAPORT_SERTIFIKA_EGM_CALISMA\PROD\CSCAV1.cer";
+                //string gercscacrt = @"C:\Users\Eren BAŞ\Documents\PASAPORT_SERTIFIKA_EGM_CALISMA\PROD\CSCAV1DER.crt";
+                string DVCA = @"C:\Users\Eren BAŞ\Documents\Sertifikalar\toTest\TRDVCAEPASS.cvc";
+                string CVCA = @"C:\Users\Eren BAŞ\Documents\Sertifikalar\toTest\TRCVCAEPASS.cvc";
+                string IS = @"C:\Users\Eren BAŞ\Documents\Sertifikalar\toTest\17.cvc";
+                string pkcs8 = @"C:\Users\Eren BAŞ\Documents\Sertifikalar\toTest\eren.pkcs8";
+
+
+                //string EGMSCSA = @"C:\Users\Eren BAŞ\Desktop\Desktop\klasörler\NVI DOCS\sertifika işlemleri\Sertifikalar\Sertifikalar\PDB CSCA\CSCA-2016.crt";
+
+                //string oldcsca = @"C:\Users\hayreddin.bas\Desktop\tubitak toplantı\CSCA-2016\CSCA2016DER.cer";
+
+                //string testyencsca = @"C:\Users\hayreddin.bas\Desktop\keys\pasaport sertifikaları\TEST\TESTCSCADER.cer";
+
+                //string link = @"D:\dışişleri\Link.cer";
+
+                //string bulg = @"C:\Users\hayreddin.bas\Downloads\bg_csca_16042014\bulg.cer";
+
+
+                //string certson = @"C:\Users\hayreddin.bas\Desktop\RSA PROD\RSADERCSCA.cer";
+
+
+                //string named = @"C:\Users\hayreddin.bas\Documents\muhammet-CSCALAR\csca - named.der";
+
+                //string expl = @"C:\Users\hayreddin.bas\Documents\muhammet-CSCALAR\csca - explicit.der";
+
+
+                //string CSCA_SON = @"C:\Users\hayreddin.bas\Desktop\keys\pasaport sertifikaları\PROD\CSCATR_S1.cer";
+
+                //string Link_Son = @"C:\Users\hayreddin.bas\Desktop\keys\pasaport sertifikaları\PROD\CSCA-link-certificate2016-2018.crl";
+
+                //string DVCA = @"C:\Users\hayreddin.bas\Documents\silnecekprod\TRDVCAEPASS.cvc";
+
+                //string iscert = @"C:\Users\hayreddin.bas\Documents\yeni_is\16.cvc";
+
+                //string is_key = @"C:\Users\hayreddin.bas\Documents\yeni_is\pk2.pkcs8";
+
+                //Desko.EPass.Framework fr = new Desko.EPass.Framework();
+                //fr.TerminalAuthenticationMode = Desko.EPass.Types.TerminalAuthenticationMode.LocalStorage;
+                //fr.PassiveAuthenticationMode = Desko.EPass.Types.PassiveAuthenticationMode.LocalStorage;
+                // Desko.EPass.Framework.Instance.PassiveAuthenticationMode = Desko.EPass.Types.PassiveAuthenticationMode.LocalStorage;
+                //Desko.EPass.Framework.Instance.TerminalAuthenticationMode = Desko.EPass.Types.TerminalAuthenticationMode.LocalStorage;
+
+                TerminalType type = new TerminalType();
+                type = TerminalType.InspectionSystem;
+                               //device.AbortLongTermOperation();
+
+                //string GERCSCA = @"C:\Users\Eren BAŞ\Documents\csca\CSCA1.cer";
+
+                string GERCSCA = openFileDialog1.FileName;
 
 
 
 
+                Desko.EPass.Certificates.Certificate CSCA_SONN = new Desko.EPass.Certificates.X509Certificate(StreamFile(GERCSCA));//success
+                Desko.EPass.Certificates.CvCertificate DVCAC = new Desko.EPass.Certificates.CvCertificate(StreamFile(DVCA));
+                Desko.EPass.Certificates.CvCertificate CVCAC = new Desko.EPass.Certificates.CvCertificate(StreamFile(CVCA));
+                Desko.EPass.Certificates.CvCertificate ISC = new Desko.EPass.Certificates.CvCertificate(StreamFile(IS));
+
+               
+                //Desko.EPass.Certificates.Certificate csca_expl = new Desko.EPass.Certificates.X509Certificate(StreamFile(expl));//success
+
+                //Desko.EPass.Certificates.Certificate CSCA_named = new Desko.EPass.Certificates.X509Certificate(StreamFile(named));//success
+
+                //Desko.EPass.Certificates.Certificate DVCA_cert = new Desko.EPass.Certificates.CvCertificate(StreamFile(DVCA));
+                //Desko.EPass.Certificates.CvCertificate is_certf = new Desko.EPass.Certificates.CvCertificate(StreamFile(iscert));
+              //  Desko.EPass.Certificates.X509Certificate CSCAEGM = new Desko.EPass.Certificates.X509Certificate(StreamFile(EGMSCSA));
 
 
 
-
-                Desko.EPass.Certificates.Certificate CSCA_SONN = new Desko.EPass.Certificates.X509Certificate(StreamFile(gercsca));//success
-
-                Desko.EPass.Certificates.Certificate csca_expl = new Desko.EPass.Certificates.X509Certificate(StreamFile(expl));//success
-
-                Desko.EPass.Certificates.Certificate CSCA_named = new Desko.EPass.Certificates.X509Certificate(StreamFile(named));//success
-
-                Desko.EPass.Certificates.Certificate DVCA_cert = new Desko.EPass.Certificates.CvCertificate(StreamFile(DVCA));
-                Desko.EPass.Certificates.CvCertificate is_certf = new Desko.EPass.Certificates.CvCertificate(StreamFile(iscert));
-
-                
-
+                //   Desko.EPass.CertificateStore.Instance.AddCertificate(CSCA_SONN);
+                //Desko.EPass.CertificateStore.Instance.AddCertificate(DVCA_cert);
+                //Desko.EPass.CertificateStore.Instance.AddCertificate(is_certf);
 
                 Desko.EPass.CertificateStore.Instance.AddCertificate(CSCA_SONN);
-                Desko.EPass.CertificateStore.Instance.AddCertificate(DVCA_cert);
-                Desko.EPass.CertificateStore.Instance.AddCertificate(is_certf);
+                Desko.EPass.CertificateStore.Instance.AddCertificate(CVCAC);
+               
+                Desko.EPass.CertificateStore.Instance.AddCertificate(DVCAC);
+                Desko.EPass.CertificateStore.Instance.AddCertificate(ISC);
+                byte [] PK1 = FileToByteArray(pkcs8);
+                ISC.SetCertificateKey(PK1);
+                //byte[] pk1 = FileToByteArray(is_key);
 
-                byte[] pk1 = FileToByteArray(is_key);
+                ////Desko.EPass.Certificates.CvCertificate cert = new Desko.EPass.Certificates.CvCertificate(pk);
+                //// Desko.EPass.Certificates.CvCertificate cert1 = new Desko.EPass.Certificates.CvCertificate(pk1);
+                //// Desko.EPass.CertificateStore.Instance.AddCertificate(cert1);
 
-                //Desko.EPass.Certificates.CvCertificate cert = new Desko.EPass.Certificates.CvCertificate(pk);
-                // Desko.EPass.Certificates.CvCertificate cert1 = new Desko.EPass.Certificates.CvCertificate(pk1);
-                // Desko.EPass.CertificateStore.Instance.AddCertificate(cert1);
-
-                is_certf.SetCertificateKey(pk1);
+                //is_certf.SetCertificateKey(pk1);
 
                 //successs
 
 
-                 Desko.EPass.CertificateStore.Instance.SaveCertificateDatabase("certdb1");
-                // Desko.EPass.CertificateStore.Instance.LoadCertificateDatabase("certdb1");
+                //Desko.EPass.CertificateStore.Instance.SaveCertificateDatabase("certdbEGM");
+                 Desko.EPass.CertificateStore.Instance.LoadCertificateDatabase("certdbEGM");
 
 
 
 
                 // byte[] pk = FileToByteArray(testcert4);
-                
+
                 //certificate1.GetChildCertificates();
 
 
                 // string pks = System.Text.Encoding.UTF8.GetString(pk);
 
-              //  text_mrz = "P<TURKARADEMIR<<APTI<<<<<<<<<<<<<<<<<<<<<<<<PL19827683TUR6306243M200214512345678901<<<00";
+                //  text_mrz = "P<TURKARADEMIR<<APTI<<<<<<<<<<<<<<<<<<<<<<<<PL19827683TUR6306243M200214512345678901<<<00";
 
                 passport.Authenticate(Desko.EPass.Types.AuthenticationType.BAC, fullmrz, Desko.EPass.Types.SecretType.MRZ); //-->BAC
-
-               // passport.PerformTerminalAuthentication();
-                passport.PerformChipAuthentication();
-                passport.Authenticate(Desko.EPass.Types.AuthenticationType.PACE, fullmrz, Desko.EPass.Types.SecretType.MRZ);//-->SAC
-                label11.Text = passport.PassportInformation.AccessProtocol.ToString();
-                //45947186788
-
-
+                
+                
+               // passport.PerformChipAuthentication();
+               // passport.PerformActiveAuthentication();
                
+                passport.Authenticate(Desko.EPass.Types.AuthenticationType.PACE, fullmrz, Desko.EPass.Types.SecretType.MRZ);//-->SACScre
+                string aaaa =   passport.PassportInformation.AccessProtocol.ToString();
+                
+
+                MessageBox.Show(aaaa);//45947186788
+
+
+
                 //  passport.SetMaxAPDUSize(512);
-             
+
                 //////string aa = passport.PassportInformation.AccessProtocol.ToS0ö2tring();label26
 
 
@@ -549,17 +589,23 @@ namespace kalitekontrol
 
 
                 // MessageBox.Show(aa);
-                
-              //  passport.PerformTerminalAuthentication();
+
+                //  passport.PerformTerminalAuthentication();
                 // List<Desko.EPass.Certificates.RawCertificate> cers = new List<Desko.EPass.Certificates.RawCertificate>();
 
+
+                Desko.EPass.Framework.Instance.PassiveAuthenticationMode = Desko.EPass.Types.PassiveAuthenticationMode.LocalStorage;
+                Desko.EPass.Framework.Instance.TerminalAuthenticationMode = Desko.EPass.Types.TerminalAuthenticationMode.LocalStorage;
+
                 
-                
+                //passport.PerformChipAuthentication();
+                passport.PerformTerminalAuthentication();
+
 
                 //cers.Add(new De);
                 Desko.EPass.FileAuthenticationResults result = passport.CheckFileSignature(Desko.EPass.Types.FileType.SOD);
-                
-                MessageBox.Show(result.FileSignatureCheck.ToString());
+              
+               // MessageBox.Show(result.FileSignatureCheck.ToString());
                
                 //label15.Text ="Cert sign check="+ result.DocumenttSignerCertificateSignatureCheck.ToString();
                 label19.Text = "DOCUMENTSİGNERTRUESTSTATUS=" + result.DocumentSignerTrustStatus.ToString();
@@ -570,7 +616,7 @@ namespace kalitekontrol
                 
 
                 Desko.EPass.Certificates.RawCertificate certificate = passport.GetDocumentSignerCertificate(Desko.EPass.Types.FileType.SOD);
-                File.WriteAllBytes("certDS2NewPROD", certificate.RawData);
+                File.WriteAllBytes("tetDS1", certificate.RawData);
                 
                
 
@@ -591,6 +637,7 @@ namespace kalitekontrol
 
                 passport.Release();
             }
+            
             catch (Exception m)
             {
 
@@ -645,6 +692,8 @@ namespace kalitekontrol
             string iscert = @"C:\Users\hayreddin.bas\Documents\yeni_is\16.cvc";
 
             string is_key = @"C:\Users\hayreddin.bas\Documents\yeni_is\pk2.pkcs8";
+
+           
 
             Desko.EPass.Certificates.X509Certificate TESTCSCA = new Desko.EPass.Certificates.X509Certificate(FileToByteArray(CSCA_SON));
             Desko.EPass.Certificates.CvCertificate DVCAC = new Desko.EPass.Certificates.CvCertificate(FileToByteArray(DVCA));
@@ -742,9 +791,16 @@ namespace kalitekontrol
         private void button7_Click(object sender, EventArgs e)
         {
             //Desko.EPass.Passport passport = Desko.EPass.Framework.Instance.GetPassport(cihaz, Desko.EPass.Types.ShareMode.Shared);
-            Desko.EPass.Passport passport = Desko.EPass.Framework.Instance.GetPassport("DESKO GmbH SmartCard Reader 0", Desko.EPass.Types.ShareMode.Exclusive);
+            Desko.EPass.Passport passport = Desko.EPass.Framework.Instance.GetPassport("DESKO GmbH SmartCard Reader 0", Desko.EPass.Types.ShareMode.Direct);
+            //Desko.EPass.Certificates.RawCertificate certificate = passport.GetDocumentSignerCertificate(FileType.Unknown);
+
+            // Desko.EPass.Certificates.RawCertificate crt = passport.GetDocumentSignerCertificate(FileType.SOD);
+
+
+            // File.WriteAllBytes("certDSPROD", certificate.RawData);
+
             Desko.EPass.Certificates.RawCertificate certificate = passport.GetDocumentSignerCertificate(FileType.SOD);
-            File.WriteAllBytes("certDSPROD", certificate.RawData);
+            File.WriteAllBytes("testds", certificate.RawData);
         }
 
         private void button8_Click(object sender, EventArgs e)
@@ -763,6 +819,184 @@ namespace kalitekontrol
                 MessageBox.Show(item.ToString());
                 cihaz = item.ToString();
             }
+        }
+
+        private void Button10_Click(object sender, EventArgs e)
+        {
+            doSnapshot();
+        }
+        public bool performTA( Desko.EPass.Passport passport)
+        {
+
+
+
+            try
+            {
+              
+
+                passport.PerformTerminalAuthentication();
+                MessageBox.Show("TA TAMAM");
+                 byte [] data =   passport.ReadDatagroup(3);
+
+
+             //   MemoryStream ms = new MemoryStream(data);
+               // Image img = Image.FromStream(ms);
+                return true;
+            }
+            catch (EPassException ex)
+            {
+
+                throw;
+            }
+        }
+
+        public bool performPA(Desko.EPass.Passport passport)
+        {
+
+            try
+            {
+             
+
+                passport.PerformChipAuthentication();
+
+                return true;
+            }
+            catch (EPassException ex)
+            {
+
+                MessageBox.Show(ex.ToString()) ;
+                return false;
+            }
+           
+
+
+
+        }
+        private void button11_Click(object sender, EventArgs e)
+        {
+            openFileDialog1.ShowDialog();
+            try
+            {
+              Desko.EPass.Passport  passport = Desko.EPass.Framework.Instance.GetPassport("DESKO GmbH SmartCard Reader 0", Desko.EPass.Types.ShareMode.Exclusive);
+               // Desko.EPass.Framework.Instance.DeactivateAntenna("DESKO GmbH SmartCard Reader 0");
+               // Thread.Sleep(1000);
+               // Desko.EPass.Framework.Instance.ActivateAntenna("DESKO GmbH SmartCard Reader 0");
+
+                passport.Initialize(Desko.EPass.Types.ShareMode.Shared);
+                string fullmrz = mrzl[0] + mrzl[1];
+              
+                passport.Authenticate(Desko.EPass.Types.AuthenticationType.BAC, fullmrz, Desko.EPass.Types.SecretType.MRZ); //-->BAC
+                                                                                                                            //  passport.Authenticate(Desko.EPass.Types.AuthenticationType.PACE, fullmrz, Desko.EPass.Types.SecretType.MRZ, true);//-->SACScre
+
+                
+               // string DVCA = @"C:\Users\Eren BAŞ\Documents\Sertifikalar\toTest\TRDVCAEPASS.cvc";
+               // string CVCA = @"C:\Users\Eren BAŞ\Documents\Sertifikalar\toTest\TRCVCAEPASS.cvc";
+               //// string IS = @"C:\Users\Eren BAŞ\Documents\Sertifikalar\toTest\17.cvc";
+               // string pkcs8 = @"C:\Users\Eren BAŞ\Documents\Sertifikalar\toTest\eren.pkcs8";
+
+                string DVCA = @"C:\toTest\TRDVCAEPASS.cvc";
+                string CVCA = @"C:\toTest\TRCVCAEPASS.cvc";
+                string IS = @"C:\toTest\17.cvc";
+                string pkcs8 = @"C:\toTest\eren.pkcs8";
+
+
+
+                string GERCSCA = openFileDialog1.FileName;
+
+
+
+
+                Desko.EPass.Certificates.Certificate CSCA_SONN = new Desko.EPass.Certificates.X509Certificate(StreamFile(GERCSCA));//success
+                Desko.EPass.Certificates.CvCertificate DVCAC = new Desko.EPass.Certificates.CvCertificate(StreamFile(DVCA));
+                Desko.EPass.Certificates.CvCertificate CVCAC = new Desko.EPass.Certificates.CvCertificate(StreamFile(CVCA));
+                Desko.EPass.Certificates.CvCertificate ISC = new Desko.EPass.Certificates.CvCertificate(StreamFile(IS));
+
+
+
+                Desko.EPass.CertificateStore.Instance.AddCertificate(CSCA_SONN);
+                Desko.EPass.CertificateStore.Instance.AddCertificate(CVCAC);
+
+                Desko.EPass.CertificateStore.Instance.AddCertificate(DVCAC);
+                Desko.EPass.CertificateStore.Instance.AddCertificate(ISC);
+                byte[] PK1 = FileToByteArray(pkcs8);
+                ISC.SetCertificateKey(PK1);
+
+             //   Desko.EPass.CertificateStore.Instance.SaveCertificateDatabase("CertDb");
+                Desko.EPass.CertificateStore.Instance.LoadCertificateDatabase("CertDb");
+
+                Desko.EPass.Framework.Instance.PassiveAuthenticationMode = Desko.EPass.Types.PassiveAuthenticationMode.LocalStorage;
+                Desko.EPass.Framework.Instance.TerminalAuthenticationMode = Desko.EPass.Types.TerminalAuthenticationMode.LocalStorage;
+
+                //  Desko.EPass.Framework.Instance.PassiveAuthenticationMode = Desko.EPass.Types.PassiveAuthenticationMode.LocalStorage;
+
+
+
+
+
+                Thread.Sleep(5000);
+
+                performPA(passport);
+                performTA(passport);
+
+
+
+
+
+
+
+
+      
+            
+                Desko.EPass.FileAuthenticationResults result = passport.CheckFileSignature(Desko.EPass.Types.FileType.SOD);
+
+
+             
+              
+         
+               
+
+            
+
+                
+
+                //label15.Text ="Cert sign check="+ result.DocumenttSignerCertificateSignatureCheck.ToString();
+               // label19.Text = "DOCUMENTSİGNERTRUESTSTATUS=" + result.DocumentSignerTrustStatus.ToString();
+                //label20.Text = "COUNTRY SIGNER CERTIFICATE VALIDTY: " + result.CountrySignerCertificateValidity.ToString();
+                //label21.Text = "DOCUMENT SIGNER CERT VALIDTY:" + result.DocumentSignerCertificateValidity.ToString();
+                //label22.Text = "DOCUMENT SIGNER TRUST STAT:" + result.DocumentSignerTrustStatus.ToString();
+               // label23.Text = "FILE SIGNATURE CHECK: " + result.FileSignatureCheck.ToString(); ;
+
+
+             //   Desko.EPass.Certificates.RawCertificate certificate = passport.GetDocumentSignerCertificate(Desko.EPass.Types.FileType.SOD);
+               // File.WriteAllBytes("tetDS1", certificate.RawData);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                passport.Release();
+            }
+
+            catch (EPassException m)
+            {
+
+                throw;
+            }
+
+
         }
     }
 }

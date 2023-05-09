@@ -1,0 +1,4180 @@
+
+Log Entry : 15:19:27 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 15:19:27 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 15:19:27 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 15:19:27 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 15:19:27 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 15:19:27 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 15:21:37 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 15:21:37 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 15:21:37 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 15:21:37 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 15:21:37 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 15:21:37 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 15:22:31 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 15:22:31 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 15:22:31 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 15:22:31 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 15:22:31 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 15:22:31 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 15:24:28 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 15:24:28 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 15:24:28 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 15:24:28 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 15:24:28 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 15:24:28 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 15:25:47 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 15:25:47 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 15:25:47 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 15:25:47 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 15:25:47 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 15:25:47 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 15:31:39 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 15:31:39 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 15:31:39 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 15:31:39 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 15:31:39 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 15:31:39 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 42
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 42
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 2 PACE info(s) found
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 2 PACE info(s) found
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 2): version 2
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 2): version 2
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 2): domain params:
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 2): domain params:
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 2): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 2): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 15:31:45 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 15:31:46 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 15:31:47 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 15:31:47 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 15:31:47 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 10821
+-------------------------------
+
+Log Entry : 15:31:47 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 10821
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 94
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 94
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 47
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 47
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 15:31:49 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 15:31:58 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 15:31:58 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 15:31:58 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6988
+-------------------------------
+
+Log Entry : 15:31:58 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6988
+-------------------------------
+
+Log Entry : 15:31:58 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 15:31:58 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 15:31:58 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 15:31:58 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 667
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 42
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 42
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 2 PACE info(s) found
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 2 PACE info(s) found
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 2): version 2
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 2): version 2
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 2): domain params:
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 2): domain params:
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce 3d	0......0L..*.H.=
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6	...A.........?..
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c	.3....0.......c.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd a1	.p3.q}M....hB...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa 60	*....(../-...(.`
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b 60	VX:H.0...@x0.1.`
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d f9	;..2qE.#L.....=.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25	...4A...c.-.]Z.%
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2	:.............+.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16 10	.....Mw....@=...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a a1	.4A...c.-.]Z.%:.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7 b9	............+...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50 b7	...Mw.....>g.@P.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81 04	^...(..c...#....
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a 93	.......dZ!2..Lj.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09 8e	...p.....;b.....
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d 5f	.;.x....P.h{..}_
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8 22	|mPG@j^h.5"...."
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22 fd	}.8]Vc2......x".
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81 11	....$.{....[....
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63 ae	...IJ_H^[.K..'c.
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08 92	..+/..T.x...:...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae 33	.A.........?...3
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca 70	....0.......c..p
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19 7f	3.pU>\AL.&.A.a..
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82 9c	..G.....].......
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :a9 00 69 02 01 01                              	..i...
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 2): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 2): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :using PACE info 1 (of 2), version 2, OID id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :using PACE info 1 (of 2), version 2, OID id-PACE-ECDH-GM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Protocol: PACE - Start
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Protocol: PACE - Start
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Info: Version - 2
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Info: Version - 2
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Info: SharedPasswordType - MRZ (0x01)
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Info: SharedPasswordType - MRZ (0x01)
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::performPACE - Generating DH key pair (for generic mapping)
+-------------------------------
+
+Log Entry : 15:31:59 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::performPACE - Generating DH key pair (for generic mapping)
+-------------------------------
+
+Log Entry : 15:32:01 21 Nisan 2022 Perşembe
+  :
+  :Info: DH-KA Algorithm - ECDH
+-------------------------------
+
+Log Entry : 15:32:01 21 Nisan 2022 Perşembe
+  :
+  :Info: DH-KA Algorithm - ECDH
+-------------------------------
+
+Log Entry : 15:32:01 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::performPACE - Generating DH key pair
+-------------------------------
+
+Log Entry : 15:32:01 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::performPACE - Generating DH key pair
+-------------------------------
+
+Log Entry : 15:32:02 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::performPACE - Preparing exchange of PCD authentication tokens
+-------------------------------
+
+Log Entry : 15:32:02 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::performPACE - Preparing exchange of PCD authentication tokens
+-------------------------------
+
+Log Entry : 15:32:02 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::performPACE - Preparing exchange of ICC authentication tokens
+-------------------------------
+
+Log Entry : 15:32:02 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::performPACE - Preparing exchange of ICC authentication tokens
+-------------------------------
+
+Log Entry : 15:32:02 21 Nisan 2022 Perşembe
+  :
+  :Protocol: PACE - End
+-------------------------------
+
+Log Entry : 15:32:02 21 Nisan 2022 Perşembe
+  :
+  :Protocol: PACE - End
+-------------------------------
+
+Log Entry : 15:32:02 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 15:32:02 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 15:32:02 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 15:32:02 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :dg 14: 1 CA info(s) found
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :dg 14: 1 CA info(s) found
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :(CA info 1): version 1
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :(CA info 1): version 1
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :(CA info 1): public key info:
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :(CA info 1): public key info:
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :30 82 02 38 30 82 01 af 06 07 2a 86 48 ce 3d 02	0..80.....*.H.=.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :30 82 02 38 30 82 01 af 06 07 2a 86 48 ce 3d 02	0..80.....*.H.=.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :01 30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce	.0......0L..*.H.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :01 30 82 01 a2 02 01 01 30 4c 06 07 2a 86 48 ce	.0......0L..*.H.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :3d 01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4	=...A.........?.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :3d 01 01 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4	=...A.........?.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :e6 ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63	..3....0.......c
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :e6 ae 33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63	..3....0.......c
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :9c ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd	..p3.q}M....hB..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :9c ca 70 33 08 71 7d 4d 9b 00 9b c6 68 42 ae cd	..p3.q}M....hB..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :a1 2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa	.*....(../-...(.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :a1 2a e6 a3 80 e6 28 81 ff 2f 2d 82 c6 85 28 aa	.*....(../-...(.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :60 56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b	`VX:H.0...@x0.1.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :60 56 58 3a 48 f3 30 81 84 04 40 78 30 a3 31 8b	`VX:H.0...@x0.1.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :60 3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d	`;..2qE.#L.....=
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :60 3b 89 e2 32 71 45 ac 23 4c c5 94 cb dd 8d 3d	`;..2qE.#L.....=
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :f9 16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8	....4A...c.-.]Z.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :f9 16 10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8	....4A...c.-.]Z.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :25 3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b	%:.............+
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :25 3a a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b	%:.............+
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :f2 c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16	......Mw....@=..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :f2 c7 b9 e7 c1 ac 4d 77 fc 94 ca 04 40 3d f9 16	......Mw....@=..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a	..4A...c.-.]Z.%:
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :10 a8 34 41 ca ea 98 63 bc 2d ed 5d 5a a8 25 3a	..4A...c.-.]Z.%:
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7	.............+..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :a1 0a 2e f1 c9 8b 9a c8 b5 7f 11 17 a7 2b f2 c7	.............+..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :b9 e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50	....Mw.....>g.@P
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :b9 e7 c1 ac 4d 77 fc 94 ca dc 08 3e 67 98 40 50	....Mw.....>g.@P
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :b7 5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81	.^...(..c...#...
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :b7 5e ba e5 dd 28 09 bd 63 80 16 f7 23 04 81 81	.^...(..c...#...
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :04 81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a	........dZ!2..Lj
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :04 81 ae e4 bd d8 2e d9 64 5a 21 32 2e 9c 4c 6a	........dZ!2..Lj
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :93 85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09	....p.....;b....
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :93 85 ed 9f 70 b5 d9 16 c1 b4 3b 62 ee f4 d0 09	....p.....;b....
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :8e ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d	..;.x....P.h{..}
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :8e ff 3b 1f 78 e2 d0 d4 8d 50 d1 68 7b 93 b9 7d	..;.x....P.h{..}
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :5f 7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8	_|mPG@j^h.5"....
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :5f 7c 6d 50 47 40 6a 5e 68 8b 35 22 09 bc b9 f8	_|mPG@j^h.5"....
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :22 7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22	"}.8]Vc2......x"
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :22 7d de 38 5d 56 63 32 ec c0 ea bf a9 cf 78 22	"}.8]Vc2......x"
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :fd f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81	.....$.{....[...
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :fd f2 09 f7 00 24 a5 7b 1a a0 00 c5 5b 88 1f 81	.....$.{....[...
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :11 b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63	....IJ_H^[.K..'c
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :11 b2 dc de 49 4a 5f 48 5e 5b ca 4b d8 8a 27 63	....IJ_H^[.K..'c
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :ae d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08	...+/..T.x...:..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :ae d1 ca 2b 2f a8 f0 54 06 78 cd 1e 0f 3a d8 08	...+/..T.x...:..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :92 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae	..A.........?...
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :92 02 41 00 aa dd 9d b8 db e9 c4 8b 3f d4 e6 ae	..A.........?...
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca	3....0.......c..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :33 c9 fc 07 cb 30 8d b3 b3 c9 d2 0e d6 63 9c ca	3....0.......c..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :70 33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19	p3.pU>\AL.&.A.a.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :70 33 08 70 55 3e 5c 41 4c a9 26 19 41 86 61 19	p3.pU>\AL.&.A.a.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :7f ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82	...G.....]......
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :7f ac 10 47 1d b1 d3 81 08 5d da dd b5 87 96 82	...G.....]......
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :9c a9 00 69 02 01 01 03 81 82 00 04 51 7f a6 28	...i........Q..(
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :9c a9 00 69 02 01 01 03 81 82 00 04 51 7f a6 28	...i........Q..(
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :15 52 3b 2e 89 93 b3 05 53 73 f0 e5 77 5f 96 0f	.R;.....Ss..w_..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :15 52 3b 2e 89 93 b3 05 53 73 f0 e5 77 5f 96 0f	.R;.....Ss..w_..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :c9 2a 69 73 33 8b 03 d8 92 b1 fc 42 f6 b3 bd 76	.*is3......B...v
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :c9 2a 69 73 33 8b 03 d8 92 b1 fc 42 f6 b3 bd 76	.*is3......B...v
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :05 d9 96 6a 13 ec fa 2f f5 58 01 0b 34 dc 1b 48	...j.../.X..4..H
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :05 d9 96 6a 13 ec fa 2f f5 58 01 0b 34 dc 1b 48	...j.../.X..4..H
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :0e 10 87 45 b0 2e 77 d8 43 a1 73 b6 59 ed 3b 0c	...E..w.C.s.Y.;.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :0e 10 87 45 b0 2e 77 d8 43 a1 73 b6 59 ed 3b 0c	...E..w.C.s.Y.;.
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :1a 36 b9 c9 26 eb 1b b2 a6 5d 6f 25 e3 42 01 cd	.6..&....]o%.B..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :1a 36 b9 c9 26 eb 1b b2 a6 5d 6f 25 e3 42 01 cd	.6..&....]o%.B..
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :76 6f fb 32 ae a6 5d 56 86 f7 ae 6f 04 c2 b1 b7	vo.2..]V...o....
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :76 6f fb 32 ae a6 5d 56 86 f7 ae 6f 04 c2 b1 b7	vo.2..]V...o....
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :13 96 df 8b 68 00 07 c6 29 43 c2 b5 bc e8 1f d8	....h...)C......
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :13 96 df 8b 68 00 07 c6 29 43 c2 b5 bc e8 1f d8	....h...)C......
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :97 83 44 46 d1 f6 db 94 84 1f 1d 2e            	..DF........
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :97 83 44 46 d1 f6 db 94 84 1f 1d 2e            	..DF........
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :(CA info 1): protocol OID: id-CA-ECDH-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :(CA info 1): protocol OID: id-CA-ECDH-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :dg 14: 1 TA info(s) found
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :dg 14: 1 TA info(s) found
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :(TA info 1): version 1
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :(TA info 1): version 1
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :Protocol: ChipAuthentication - Start
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :Protocol: ChipAuthentication - Start
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :Info: KeyId - No ID
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :Info: KeyId - No ID
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::getRawPubKey - Cutting byte for unused bits (bitsting encoding)
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::getRawPubKey - Cutting byte for unused bits (bitsting encoding)
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :Info: Algorithm - ECDH
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::performChipAuthentication - Initializing DH-Agreement (algorithm: ECDH)
+-------------------------------
+
+Log Entry : 15:32:03 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::performChipAuthentication - Initializing DH-Agreement (algorithm: ECDH)
+-------------------------------
+
+Log Entry : 15:32:04 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::performChipAuthentication - Generating DH key pair
+-------------------------------
+
+Log Entry : 15:32:04 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::performChipAuthentication - Generating DH key pair
+-------------------------------
+
+Log Entry : 15:32:04 21 Nisan 2022 Perşembe
+  :
+  :Protocol: ChipAuthentication - End
+-------------------------------
+
+Log Entry : 15:32:04 21 Nisan 2022 Perşembe
+  :
+  :Protocol: ChipAuthentication - End
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CVCA - Start
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CVCA - Start
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CVCA - End
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CVCA - End
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :performing TA with dynamic binding
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :performing TA with dynamic binding
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Protocol: TerminalAuthentication - Start
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Protocol: TerminalAuthentication - Start
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Info: TerminalType - inspection system
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Info: TerminalType - inspection system
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Info: Version - 1
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::prepareTerminalAuthentication - Performing MSE:SetDST
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Info: PerformCertificateVerifyVersion - EAC 1.01/1.1/2.0.
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:25 - The terminal authentication procedure failed.
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:25 - The terminal authentication procedure failed.
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Protocol: TerminalAuthentication - End
+-------------------------------
+
+Log Entry : 15:32:06 21 Nisan 2022 Perşembe
+  :
+  :Protocol: TerminalAuthentication - End
+-------------------------------
+
+Log Entry : 16:26:17 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 16:26:17 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 16:26:17 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 16:26:17 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 16:26:17 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 16:26:17 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 22
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 22
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 1 PACE info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 1 PACE info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 ac 02 01 01 30 4d 06 07 2a 86 48 ce 3d	0......0M..*.H.=
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 ac 02 01 01 30 4d 06 07 2a 86 48 ce 3d	0......0M..*.H.=
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 42 01 ff ff ff ff ff ff ff ff ff ff ff	...B............
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 42 01 ff ff ff ff ff ff ff ff ff ff ff	...B............
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff 30 81 88 04 42 01 ff ff ff ff	......0...B.....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff 30 81 88 04 42 01 ff ff ff ff	......0...B.....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fc 04 42 00	..............B.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fc 04 42 00	..............B.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :51 95 3e b9 61 8e 1c 9a 1f 92 9a 21 a0 b6 85 40	Q.>.a......!...@
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :51 95 3e b9 61 8e 1c 9a 1f 92 9a 21 a0 b6 85 40	Q.>.a......!...@
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ee a2 da 72 5b 99 b3 15 f3 b8 b4 89 91 8e f1 09	...r[...........
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ee a2 da 72 5b 99 b3 15 f3 b8 b4 89 91 8e f1 09	...r[...........
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :e1 56 19 39 51 ec 7e 93 7b 16 52 c0 bd 3b b1 bf	.V.9Q.~.{.R..;..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :e1 56 19 39 51 ec 7e 93 7b 16 52 c0 bd 3b b1 bf	.V.9Q.~.{.R..;..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :07 35 73 df 88 3d 2c 34 f1 ef 45 1f d4 6b 50 3f	.5s..=,4..E..kP?
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :07 35 73 df 88 3d 2c 34 f1 ef 45 1f d4 6b 50 3f	.5s..=,4..E..kP?
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :00 04 81 85 04 00 c6 85 8e 06 b7 04 04 e9 cd 9e	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :00 04 81 85 04 00 c6 85 8e 06 b7 04 04 e9 cd 9e	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :3e cb 66 23 95 b4 42 9c 64 81 39 05 3f b5 21 f8	>.f#..B.d.9.?.!.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :3e cb 66 23 95 b4 42 9c 64 81 39 05 3f b5 21 f8	>.f#..B.d.9.?.!.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :28 af 60 6b 4d 3d ba a1 4b 5e 77 ef e7 59 28 fe	(.`kM=..K^w..Y(.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :28 af 60 6b 4d 3d ba a1 4b 5e 77 ef e7 59 28 fe	(.`kM=..K^w..Y(.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :1d c1 27 a2 ff a8 de 33 48 b3 c1 85 6a 42 9b f9	..'....3H...jB..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :1d c1 27 a2 ff a8 de 33 48 b3 c1 85 6a 42 9b f9	..'....3H...jB..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :7e 7e 31 c2 e5 bd 66 01 18 39 29 6a 78 9a 3b c0	~~1...f..9)jx.;.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :7e 7e 31 c2 e5 bd 66 01 18 39 29 6a 78 9a 3b c0	~~1...f..9)jx.;.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :04 5c 8a 5f b4 2c 7d 1b d9 98 f5 44 49 57 9b 44	.\._.,}....DIW.D
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :04 5c 8a 5f b4 2c 7d 1b d9 98 f5 44 49 57 9b 44	.\._.,}....DIW.D
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :68 17 af bd 17 27 3e 66 2c 97 ee 72 99 5e f4 26	h....'>f,..r.^.&
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :68 17 af bd 17 27 3e 66 2c 97 ee 72 99 5e f4 26	h....'>f,..r.^.&
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :40 c5 50 b9 01 3f ad 07 61 35 3c 70 86 a2 72 c2	@.P..?..a5<p..r.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :40 c5 50 b9 01 3f ad 07 61 35 3c 70 86 a2 72 c2	@.P..?..a5<p..r.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :40 88 be 94 76 9f d1 66 50 02 42 01 ff ff ff ff	@...v..fP.B.....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :40 88 be 94 76 9f d1 66 50 02 42 01 ff ff ff ff	@...v..fP.B.....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fa 51 86 87	.............Q..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fa 51 86 87	.............Q..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :83 bf 2f 96 6b 7f cc 01 48 f7 09 a5 d0 3b b5 c9	../.k...H....;..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :83 bf 2f 96 6b 7f cc 01 48 f7 09 a5 d0 3b b5 c9	../.k...H....;..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :b8 89 9c 47 ae bb 6f b7 1e 91 38 64 09 02 01 01	...G..o...8d....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :b8 89 9c 47 ae bb 6f b7 1e 91 38 64 09 02 01 01	...G..o...8d....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6300
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6300
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 1 PACE info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 1 PACE info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 ac 02 01 01 30 4d 06 07 2a 86 48 ce 3d	0......0M..*.H.=
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 ac 02 01 01 30 4d 06 07 2a 86 48 ce 3d	0......0M..*.H.=
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 42 01 ff ff ff ff ff ff ff ff ff ff ff	...B............
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 42 01 ff ff ff ff ff ff ff ff ff ff ff	...B............
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff 30 81 88 04 42 01 ff ff ff ff	......0...B.....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff 30 81 88 04 42 01 ff ff ff ff	......0...B.....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fc 04 42 00	..............B.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fc 04 42 00	..............B.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :51 95 3e b9 61 8e 1c 9a 1f 92 9a 21 a0 b6 85 40	Q.>.a......!...@
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :51 95 3e b9 61 8e 1c 9a 1f 92 9a 21 a0 b6 85 40	Q.>.a......!...@
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ee a2 da 72 5b 99 b3 15 f3 b8 b4 89 91 8e f1 09	...r[...........
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ee a2 da 72 5b 99 b3 15 f3 b8 b4 89 91 8e f1 09	...r[...........
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :e1 56 19 39 51 ec 7e 93 7b 16 52 c0 bd 3b b1 bf	.V.9Q.~.{.R..;..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :e1 56 19 39 51 ec 7e 93 7b 16 52 c0 bd 3b b1 bf	.V.9Q.~.{.R..;..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :07 35 73 df 88 3d 2c 34 f1 ef 45 1f d4 6b 50 3f	.5s..=,4..E..kP?
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :07 35 73 df 88 3d 2c 34 f1 ef 45 1f d4 6b 50 3f	.5s..=,4..E..kP?
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :00 04 81 85 04 00 c6 85 8e 06 b7 04 04 e9 cd 9e	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :00 04 81 85 04 00 c6 85 8e 06 b7 04 04 e9 cd 9e	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :3e cb 66 23 95 b4 42 9c 64 81 39 05 3f b5 21 f8	>.f#..B.d.9.?.!.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :3e cb 66 23 95 b4 42 9c 64 81 39 05 3f b5 21 f8	>.f#..B.d.9.?.!.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :28 af 60 6b 4d 3d ba a1 4b 5e 77 ef e7 59 28 fe	(.`kM=..K^w..Y(.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :28 af 60 6b 4d 3d ba a1 4b 5e 77 ef e7 59 28 fe	(.`kM=..K^w..Y(.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :1d c1 27 a2 ff a8 de 33 48 b3 c1 85 6a 42 9b f9	..'....3H...jB..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :1d c1 27 a2 ff a8 de 33 48 b3 c1 85 6a 42 9b f9	..'....3H...jB..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :7e 7e 31 c2 e5 bd 66 01 18 39 29 6a 78 9a 3b c0	~~1...f..9)jx.;.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :7e 7e 31 c2 e5 bd 66 01 18 39 29 6a 78 9a 3b c0	~~1...f..9)jx.;.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :04 5c 8a 5f b4 2c 7d 1b d9 98 f5 44 49 57 9b 44	.\._.,}....DIW.D
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :04 5c 8a 5f b4 2c 7d 1b d9 98 f5 44 49 57 9b 44	.\._.,}....DIW.D
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :68 17 af bd 17 27 3e 66 2c 97 ee 72 99 5e f4 26	h....'>f,..r.^.&
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :68 17 af bd 17 27 3e 66 2c 97 ee 72 99 5e f4 26	h....'>f,..r.^.&
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :40 c5 50 b9 01 3f ad 07 61 35 3c 70 86 a2 72 c2	@.P..?..a5<p..r.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :40 c5 50 b9 01 3f ad 07 61 35 3c 70 86 a2 72 c2	@.P..?..a5<p..r.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :40 88 be 94 76 9f d1 66 50 02 42 01 ff ff ff ff	@...v..fP.B.....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :40 88 be 94 76 9f d1 66 50 02 42 01 ff ff ff ff	@...v..fP.B.....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fa 51 86 87	.............Q..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fa 51 86 87	.............Q..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :83 bf 2f 96 6b 7f cc 01 48 f7 09 a5 d0 3b b5 c9	../.k...H....;..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :83 bf 2f 96 6b 7f cc 01 48 f7 09 a5 d0 3b b5 c9	../.k...H....;..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :b8 89 9c 47 ae bb 6f b7 1e 91 38 64 09 02 01 01	...G..o...8d....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :b8 89 9c 47 ae bb 6f b7 1e 91 38 64 09 02 01 01	...G..o...8d....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6300
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6300
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 1 PACE info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 1 PACE info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): version 2
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): domain params:
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 ac 02 01 01 30 4d 06 07 2a 86 48 ce 3d	0......0M..*.H.=
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :30 82 01 ac 02 01 01 30 4d 06 07 2a 86 48 ce 3d	0......0M..*.H.=
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 42 01 ff ff ff ff ff ff ff ff ff ff ff	...B............
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :01 01 02 42 01 ff ff ff ff ff ff ff ff ff ff ff	...B............
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff 30 81 88 04 42 01 ff ff ff ff	......0...B.....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff 30 81 88 04 42 01 ff ff ff ff	......0...B.....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fc 04 42 00	..............B.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fc 04 42 00	..............B.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :51 95 3e b9 61 8e 1c 9a 1f 92 9a 21 a0 b6 85 40	Q.>.a......!...@
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :51 95 3e b9 61 8e 1c 9a 1f 92 9a 21 a0 b6 85 40	Q.>.a......!...@
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ee a2 da 72 5b 99 b3 15 f3 b8 b4 89 91 8e f1 09	...r[...........
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ee a2 da 72 5b 99 b3 15 f3 b8 b4 89 91 8e f1 09	...r[...........
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :e1 56 19 39 51 ec 7e 93 7b 16 52 c0 bd 3b b1 bf	.V.9Q.~.{.R..;..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :e1 56 19 39 51 ec 7e 93 7b 16 52 c0 bd 3b b1 bf	.V.9Q.~.{.R..;..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :07 35 73 df 88 3d 2c 34 f1 ef 45 1f d4 6b 50 3f	.5s..=,4..E..kP?
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :07 35 73 df 88 3d 2c 34 f1 ef 45 1f d4 6b 50 3f	.5s..=,4..E..kP?
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :00 04 81 85 04 00 c6 85 8e 06 b7 04 04 e9 cd 9e	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :00 04 81 85 04 00 c6 85 8e 06 b7 04 04 e9 cd 9e	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :3e cb 66 23 95 b4 42 9c 64 81 39 05 3f b5 21 f8	>.f#..B.d.9.?.!.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :3e cb 66 23 95 b4 42 9c 64 81 39 05 3f b5 21 f8	>.f#..B.d.9.?.!.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :28 af 60 6b 4d 3d ba a1 4b 5e 77 ef e7 59 28 fe	(.`kM=..K^w..Y(.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :28 af 60 6b 4d 3d ba a1 4b 5e 77 ef e7 59 28 fe	(.`kM=..K^w..Y(.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :1d c1 27 a2 ff a8 de 33 48 b3 c1 85 6a 42 9b f9	..'....3H...jB..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :1d c1 27 a2 ff a8 de 33 48 b3 c1 85 6a 42 9b f9	..'....3H...jB..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :7e 7e 31 c2 e5 bd 66 01 18 39 29 6a 78 9a 3b c0	~~1...f..9)jx.;.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :7e 7e 31 c2 e5 bd 66 01 18 39 29 6a 78 9a 3b c0	~~1...f..9)jx.;.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :04 5c 8a 5f b4 2c 7d 1b d9 98 f5 44 49 57 9b 44	.\._.,}....DIW.D
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :04 5c 8a 5f b4 2c 7d 1b d9 98 f5 44 49 57 9b 44	.\._.,}....DIW.D
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :68 17 af bd 17 27 3e 66 2c 97 ee 72 99 5e f4 26	h....'>f,..r.^.&
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :68 17 af bd 17 27 3e 66 2c 97 ee 72 99 5e f4 26	h....'>f,..r.^.&
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :40 c5 50 b9 01 3f ad 07 61 35 3c 70 86 a2 72 c2	@.P..?..a5<p..r.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :40 c5 50 b9 01 3f ad 07 61 35 3c 70 86 a2 72 c2	@.P..?..a5<p..r.
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :40 88 be 94 76 9f d1 66 50 02 42 01 ff ff ff ff	@...v..fP.B.....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :40 88 be 94 76 9f d1 66 50 02 42 01 ff ff ff ff	@...v..fP.B.....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff	................
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fa 51 86 87	.............Q..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :ff ff ff ff ff ff ff ff ff ff ff ff fa 51 86 87	.............Q..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :83 bf 2f 96 6b 7f cc 01 48 f7 09 a5 d0 3b b5 c9	../.k...H....;..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :83 bf 2f 96 6b 7f cc 01 48 f7 09 a5 d0 3b b5 c9	../.k...H....;..
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :b8 89 9c 47 ae bb 6f b7 1e 91 38 64 09 02 01 01	...G..o...8d....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :b8 89 9c 47 ae bb 6f b7 1e 91 38 64 09 02 01 01	...G..o...8d....
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :(PACE info 1): protocol OID: id-PACE-ECDH-IM-AES-CBC-CMAC-256
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 TA info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :EF.CARDACCESS: 0 CA info(s) found
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6300
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:8 - The passport returned an error. Error code: 6300
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 16:26:22 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 16:26:40 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 16:26:40 21 Nisan 2022 Perşembe
+  :
+  :searching for ePassport ISPKI DLLs in: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\
+-------------------------------
+
+Log Entry : 16:26:40 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 16:26:40 21 Nisan 2022 Perşembe
+  :
+  :  found ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll
+-------------------------------
+
+Log Entry : 16:26:40 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 16:26:40 21 Nisan 2022 Perşembe
+  :
+  :    could not load ePassport ISPKI DLL: C:\Users\herenbas\Desktop\kalitekontrol\kalitekontrol\bin\Debug\ispkiTCCReader.dll: %1 geçerli bir Win32 uygulaması değil.
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - Start
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Error: General - PassportAPIException:7 - The passport security conditions are not fulfilled.
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.CardAccess - End
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - Start
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::calculateAuthenticationData - Calculating Authentication Data
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Protocol: BAC - End
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.COM - Start
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 26
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: EF.COM - End
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG14 - Start
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 681
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 681
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG14 - End
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :1 public key informations found in data group 14
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :using public key info 1 (version 1, protocol OID id-CA-ECDH-AES-CBC-CMAC-256)
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG1 - Start
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 93
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 16:26:44 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG1 - End
+-------------------------------
+
+Log Entry : 16:26:46 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 16:26:46 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG2 - Start
+-------------------------------
+
+Log Entry : 16:26:46 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 15093
+-------------------------------
+
+Log Entry : 16:26:46 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 15093
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG2 - End
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG11 - Start
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 185
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 185
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG11 - End
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG12 - Start
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 51
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :Operations: Passport::readTagLengthP1 - Calculated TLV object size 51
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------
+
+Log Entry : 16:26:47 21 Nisan 2022 Perşembe
+  :
+  :ReadData: ePass.DG12 - End
+-------------------------------

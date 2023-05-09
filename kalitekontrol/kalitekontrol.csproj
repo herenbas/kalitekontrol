@@ -14,7 +14,7 @@
     <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>x86</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -25,7 +25,7 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
+    <PlatformTarget>x64</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -49,12 +49,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Debug\deskoscannet.dll</HintPath>
     </Reference>
-    <Reference Include="ePassApi2net, Version=1.1.0.0, Culture=neutral, PublicKeyToken=70dbf5a9c5bfc2b6, processorArchitecture=x86">
+    <Reference Include="ePassApi2net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=70dbf5a9c5bfc2b6, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\DESKO GmbH\DESKO e-PASS API\SDK\bin\ePassApi2net.dll</HintPath>
-    </Reference>
-    <Reference Include="EPassApiDotNet">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\DESKO GmbH\PENTA Demo\EPassApiDotNet.dll</HintPath>
+      <HintPath>bin\Debug\ePassApi2net.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Win32.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Win32.Primitives.4.0.1\lib\net46\Microsoft.Win32.Primitives.dll</HintPath>
@@ -136,8 +133,15 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="LogWriter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="p_control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="p_control.Designer.cs">
+      <DependentUpon>p_control.cs</DependentUpon>
+    </Compile>
     <Compile Include="ScanLightControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -170,6 +174,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="p_control.resx">
+      <DependentUpon>p_control.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ScanLightControl.resx">
       <DependentUpon>ScanLightControl.cs</DependentUpon>
       <SubType>Designer</SubType>
